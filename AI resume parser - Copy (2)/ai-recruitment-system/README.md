@@ -67,21 +67,21 @@ This system revolutionizes the recruitment process by:
 ### Setup
 
 1. _Clone the repository_
-   bash
+   ```bash
    git clone https://github.com/affaan777/AI-Resume-Parser---Candidate-Recommendation-System.git
    cd ai-recruitment-system
 
 2. _Create virtual environment_
-   bash
+   ```bash
    python -m venv venv
    source venv/bin/activate # On Windows: venv\Scripts\activate
 
 3. _Install dependencies_
-   bash
+   ```bash
    pip install -r requirements.txt
 
 4. _Set up environment variables_
-   bash
+   ```bash
    cp .env.example .env
 
 Edit .env with your credentials:
