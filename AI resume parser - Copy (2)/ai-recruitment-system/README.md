@@ -79,7 +79,7 @@ This system revolutionizes the recruitment process by:
 3. _Install dependencies_
    ```bash
    pip install -r requirements.txt
-
+   
 4. _Set up environment variables_
    ```bash
    cp .env.example .env
@@ -104,7 +104,7 @@ DATABASE_URL=postgresql://user:password@localhost:5432/recruitment_db
 API_KEY=your_secure_api_key
 
 5. _Run the application_
-   bash
+   ```bash
    uvicorn src.api.main:app --reload --port 8000
 
 ---
@@ -113,7 +113,7 @@ API_KEY=your_secure_api_key
 
 ### Parse a Resume
 
-python
+```bash
 from src.parser.resume_parser_production import ResumeParser
 
 parser = ResumeParser()
@@ -122,14 +122,14 @@ resume_data = parser.parse_resume("resume.pdf")
 print(f"Name: {resume_data.full_name}")
 print(f"Email: {resume_data.email}")
 print(f"Skills: {', '.join(resume_data.skills)}")
-
+```
 ### Search Candidates
-
+```bash
 python
 from src.recommendation import RecommendationEngine, LLMReranker
-
+```
 # Stage 1: Vector search
-
+```bash
 engine = RecommendationEngine()
 candidates = engine.search_candidates(
 query_embedding=job_embedding,
@@ -139,29 +139,28 @@ filters={
 'min_experience': 3
 }
 )
-
+```
 # Stage 2: LLM re-ranking
-
+```bash
 reranker = LLMReranker()
 result = reranker.rerank_candidates(
 candidates=[c.__dict__ for c in candidates],
 job_description="Senior React Developer with 5+ years...",
 top_n=10
 )
-
+```
 # View top match
-
+```bash
 top = result.ranked_candidates[0]
 print(f"Rank: #{top.rank}")
 print(f"Score: {top.overall_score:.2%}")
 print(f"Rationale: {top.rationale}")
-
----
+```
 
 ## 📡 API Endpoints
 
 ### Parse Resume
-
+```bash
 http
 POST /api/v1/parse-resume
 Content-Type: multipart/form-data
@@ -178,15 +177,15 @@ json
 "parsing_time": 5.23,
 "status": "processing_embeddings"
 }
-
+```
 ### Get Candidate
-
+```bash
 http
 GET /api/v1/candidates/{id}
 X-API-Key: your_api_key
-
+```
 ### Search Candidates
-
+```bash
 http
 GET /api/v1/candidates/search?query=Senior+React+Developer&location=Bangalore&limit=10
 X-API-Key: your_api_key
@@ -206,11 +205,11 @@ json
 }
 ]
 }
+```
 
----
 
 ## 🧪 Testing
-
+```bash
 Run tests:
 bash
 pytest tests/ -v
@@ -218,8 +217,7 @@ pytest tests/ -v
 Run with coverage:
 bash
 pytest --cov=src tests/
-
----
+```
 
 ## 📊 Performance Metrics
 
