@@ -88,21 +88,21 @@ Edit .env with your credentials:
 env
 
 # Google AI
-
+```bash
 GOOGLE_API_KEY=your_gemini_api_key
-
+```
 # Pinecone
-
+```bash
 PINECONE_API_KEY=your_pinecone_api_key
-
+```
 # Database
-
+```bash
 DATABASE_URL=postgresql://user:password@localhost:5432/recruitment_db
-
+```
 # API
-
+```
 API_KEY=your_secure_api_key
-
+```
 5. _Run the application_
    ```bash
    uvicorn src.api.main:app --reload --port 8000
