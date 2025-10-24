@@ -68,7 +68,7 @@ This system revolutionizes the recruitment process by:
 
 1. _Clone the repository_
    bash
-   git clone [https://github.com/affaan777/AI-Resume-Parser---Candidate-Recommendation-System.git]
+   git clone https://github.com/affaan777/AI-Resume-Parser---Candidate-Recommendation-System.git
    cd ai-recruitment-system
 
 2. _Create virtual environment_
