@@ -1,0 +1,1099 @@
+[
+  {
+    "full_name": "Jennifer Rodriguez",
+    "email": "jrodriguez.rn@healthmail.com",
+    "phone_number": "+1 (555) 234-8899",
+    "location": "Boston, Massachusetts 02115",
+    "professional_title": "Registered Nurse - Critical Care & Emergency Medicine",
+    "professional_summary": "Compassionate and detail-oriented Registered Nurse with 12+ years of experience in high-acuity environments including Emergency Department, Intensive Care Unit, and Trauma. Advanced expertise in critical care, emergency response, patient advocacy, and interdisciplinary collaboration. Proven ability to remain calm under pressure while providing exceptional patient care. Strong clinical assessment skills with focus on evidence-based practice and continuous quality improvement. Committed to patient safety, education, and achieving optimal health outcomes.",
+    "linkedin_url": "https://linkedin.com/in/jennifer-rodriguez-rn",
+    "github_url": null,
+    "portfolio_url": null,
+    "personal_website": null,
+    "skills": [
+      "Critical Care Nursing",
+      "Emergency & Trauma Care",
+      "Patient Assessment & Triage",
+      "Hemodynamic Monitoring",
+      "Ventilator Management",
+      "IV Therapy & Central Lines",
+      "Cardiac Arrhythmia Recognition",
+      "Medication Administration",
+      "Wound Care & Management",
+      "Pain Management & Palliative Care",
+      "Patient & Family Education",
+      "Epic EHR",
+      "Cerner",
+      "Infection Control Protocols",
+      "Crisis Intervention",
+      "Code Blue Response",
+      "Quality & Safety Initiatives",
+      "Critical thinking",
+      "Patient advocacy",
+      "Evidence-based practice",
+      "Meditech",
+      "Ventilator operation",
+      "CRRT",
+      "Team collaboration",
+      "Communication",
+      "Stress management",
+      "Time management"
+    ],
+    "work_experience": [
+      {
+        "job_title": "Critical Care Registered Nurse - Medical/Surgical ICU",
+        "company_name": "Massachusetts General Hospital",
+        "location": "Boston, MA",
+        "employment_type": "full_time",
+        "start_date": "2019-08-01",
+        "end_date": null,
+        "is_current": true,
+        "description": "Provided comprehensive nursing care to critically ill patients with complex medical conditions in 24-bed MICU with 1:2 nurse-to-patient ratio (occasionally 1:3 during surge situations).",
+        "key_responsibilities": [
+          "Provide comprehensive nursing care to critically ill patients with complex medical conditions in 24-bed MICU with 1:2 nurse-to-patient ratio (occasionally 1:3 during surge situations)",
+          "Manage patients requiring mechanical ventilation, continuous renal replacement therapy (CRRT), hemodynamic monitoring via arterial lines and Swan-Ganz catheters, vasopressor support, and advanced cardiac life support",
+          "Serve as preceptor for 15+ new graduate nurses and nursing students, providing clinical education, skill development, and mentorship transitioning into critical care practice",
+          "Member of Unit-Based Council focused on improving patient outcomes and nurse satisfaction; led initiative reducing catheter-associated urinary tract infections (CAUTIs) by 45% through education and protocol implementation (2022-2023)",
+          "Participate in interdisciplinary rounds with physicians, respiratory therapists, pharmacists, social workers, and case managers to develop comprehensive patient care plans",
+          "Demonstrate proficiency with Epic EHR system for documentation, medication administration, and care coordination",
+          "Consistently receive excellent patient satisfaction scores (95th percentile) and peer recognition for clinical excellence",
+          "Float to other ICU units (SICU, CCU, Neuro ICU) as needed based on hospital census and staffing requirements"
+        ]
+      },
+      {
+        "job_title": "Emergency Department Registered Nurse",
+        "company_name": "Massachusetts General Hospital",
+        "location": "Boston, MA",
+        "employment_type": "full_time",
+        "start_date": "2016-03-01",
+        "end_date": "2019-07-31",
+        "is_current": false,
+        "description": "Delivered rapid assessment and emergency care in high-volume Level I Trauma Center ED averaging 350+ patient visits daily.",
+        "key_responsibilities": [
+          "Delivered rapid assessment and emergency care in high-volume Level I Trauma Center ED averaging 350+ patient visits daily",
+          "Performed triage assessment using ESI (Emergency Severity Index) 5-level triage system, prioritizing patients based on acuity and resource needs",
+          "Managed diverse patient population including trauma, cardiac emergencies, stroke, respiratory distress, sepsis, overdose, pediatric emergencies, and psychiatric crises",
+          "Initiated treatment protocols for time-sensitive conditions (STEMI, stroke, sepsis) ensuring door-to-intervention times met national benchmarks",
+          "Collaborated with trauma team during resuscitation of critically injured patients; assisted with emergency procedures including chest tube insertion, intubation, central line placement",
+          "Served as charge nurse 2-3 shifts per month, overseeing department operations, staff assignments, patient flow, and resource allocation",
+          "Received \"Daisy Award for Extraordinary Nurses\" (Q2 2018) for compassionate care and clinical excellence"
+        ]
+      },
+      {
+        "job_title": "Staff Nurse - Cardiac Care Unit",
+        "company_name": "Brigham and Women's Hospital",
+        "location": "Boston, MA",
+        "employment_type": "full_time",
+        "start_date": "2012-06-01",
+        "end_date": "2016-02-29",
+        "is_current": false,
+        "description": "Provided specialized cardiac nursing care for patients with acute myocardial infarction, heart failure, arrhythmias, and post-cardiac catheterization/intervention.",
+        "key_responsibilities": [
+          "Provided specialized cardiac nursing care for patients with acute myocardial infarction, heart failure, arrhythmias, and post-cardiac catheterization/intervention",
+          "Monitored continuous cardiac telemetry, recognized life-threatening arrhythmias, and initiated appropriate interventions per ACLS protocols",
+          "Administered cardiac medications including thrombolytics, inotropes, antiarrhythmics, and anticoagulants with meticulous attention to dosing and patient response",
+          "Educated patients and families regarding heart disease, lifestyle modifications, medication compliance, and cardiac rehabilitation",
+          "Participated in unit quality improvement project that reduced heart failure readmission rates by 22% through enhanced discharge planning and patient education"
+        ]
+      },
+      {
+        "job_title": "Registered Nurse - Medical-Surgical Unit",
+        "company_name": "Newton-Wellesley Hospital",
+        "location": "Newton, MA",
+        "employment_type": "full_time",
+        "start_date": "2011-07-01",
+        "end_date": "2012-05-31",
+        "is_current": false,
+        "description": "Completed 12-month nurse residency program for new graduates with structured orientation, skills development, and progressive independence.",
+        "key_responsibilities": [
+          "Completed 12-month nurse residency program for new graduates with structured orientation, skills development, and progressive independence",
+          "Cared for adult patients with variety of medical-surgical conditions in 32-bed unit with typical patient ratio of 1:5-6",
+          "Developed foundational nursing skills including medication administration, wound care, patient assessment, IV therapy, and documentation",
+          "Attended weekly residency seminars covering topics such as time management, critical thinking, professional development, and evidence-based practice"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Science in Nursing (MSN)",
+        "institution": "Northeastern University",
+        "field_of_study": "Nursing Leadership & Healthcare Administration",
+        "education_level": "master",
+        "start_date": null,
+        "end_date": "2020-05-01",
+        "gpa": 3.9,
+        "honors": [
+          "Summa Cum Laude"
+        ]
+      },
+      {
+        "degree": "Bachelor of Science in Nursing (BSN)",
+        "institution": "Boston College",
+        "field_of_study": "Nursing",
+        "education_level": "bachelor",
+        "start_date": null,
+        "end_date": "2011-05-01",
+        "gpa": 3.6,
+        "honors": [
+          "Dean's List (all semesters)",
+          "Sigma Theta Tau International Honor Society of Nursing (inducted 2010)"
+        ]
+      }
+    ],
+    "projects": [],
+    "publications": [],
+    "certifications": [
+      {
+        "name": "Registered Nurse License (RN)",
+        "issuing_organization": "Massachusetts Board of Registration in Nursing",
+        "issue_date": "2012-06-01",
+        "expiry_date": "2026-06-01",
+        "credential_id": "RN-278945",
+        "credential_url": null
+      },
+      {
+        "name": "Registered Nurse License (RN) - Compact Multi-State License",
+        "issuing_organization": null,
+        "issue_date": null,
+        "expiry_date": "2027-01-01",
+        "credential_id": "RN-MS-445782",
+        "credential_url": null
+      },
+      {
+        "name": "Advanced Cardiovascular Life Support (ACLS)",
+        "issuing_organization": "American Heart Association",
+        "issue_date": "2013-01-01",
+        "expiry_date": "2025-11-01",
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Pediatric Advanced Life Support (PALS)",
+        "issuing_organization": "AHA",
+        "issue_date": null,
+        "expiry_date": "2026-03-01",
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Basic Life Support (BLS) for Healthcare Providers",
+        "issuing_organization": "AHA",
+        "issue_date": null,
+        "expiry_date": "2025-07-01",
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Trauma Nursing Core Course (TNCC)",
+        "issuing_organization": "Emergency Nurses Association",
+        "issue_date": "2015-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Critical Care Registered Nurse (CCRN)",
+        "issuing_organization": "American Association of Critical-Care Nurses",
+        "issue_date": "2017-09-01",
+        "expiry_date": "2026-01-01",
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Certified Emergency Nurse (CEN)",
+        "issuing_organization": "Board of Certification for Emergency Nursing",
+        "issue_date": "2020-01-01",
+        "expiry_date": "2027-01-01",
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Neonatal Resuscitation Program (NRP) Provider",
+        "issuing_organization": null,
+        "issue_date": null,
+        "expiry_date": "2025-08-01",
+        "credential_id": null,
+        "credential_url": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "role": "Community Health Volunteer Nurse",
+        "organization": "Boston Health Care for the Homeless Program",
+        "location": "Boston, MA",
+        "start_date": "2018-01-01",
+        "end_date": null,
+        "is_current": true,
+        "description": "Provide health screenings and basic care at community health events twice monthly. Offer health education and resource navigation for vulnerable populations."
+      },
+      {
+        "role": "Medical Mission Trip Volunteer",
+        "organization": "Global Medical Mission Trip",
+        "location": "Guatemala",
+        "start_date": "2017-07-01",
+        "end_date": "2019-03-01",
+        "is_current": false,
+        "description": "Provided primary care and health education in underserved rural communities."
+      }
+    ],
+    "languages": [],
+    "achievements": null,
+    "awards": [
+      {
+        "title": "Excellence in Critical Care Nursing Award",
+        "issuer": "MGH Nursing Department",
+        "date": "2023-01-01",
+        "description": null
+      },
+      {
+        "title": "Daisy Award for Extraordinary Nurses",
+        "issuer": "Brigham Health",
+        "date": "2018-04-01",
+        "description": null
+      },
+      {
+        "title": "Outstanding New Graduate Nurse",
+        "issuer": "Newton-Wellesley Hospital",
+        "date": "2012-01-01",
+        "description": null
+      },
+      {
+        "title": "Multiple \"Patient First\" recognition awards for exceptional patient care",
+        "issuer": null,
+        "date": null,
+        "description": null
+      }
+    ],
+    "personal_interests": []
+  },
+  {
+    "full_name": "Marcus Johnson",
+    "email": "m.johnson@webmail.com",
+    "phone_number": "+1 555-987-6543",
+    "location": "Austin, Texas 78701, United States",
+    "professional_title": "Digital Marketing Manager & Brand Strategist",
+    "professional_summary": "Results-driven Digital Marketing Manager with 10 years of progressive experience developing and executing data-driven marketing strategies that drive revenue growth. Proven track record of increasing brand awareness by 250%, achieving 185% ROI on ad spend, and managing cross-channel campaigns with budgets exceeding $2.5M annually. Expert in SEO/SEM, content marketing, marketing automation, and team leadership.",
+    "linkedin_url": "https://linkedin.com/in/marcusjohnson",
+    "github_url": null,
+    "portfolio_url": "https://marcusjohnsonmarketing.com/",
+    "personal_website": null,
+    "skills": [
+      "Digital Strategy & Planning",
+      "Performance Marketing & Analytics",
+      "Content Marketing & SEO",
+      "Social Media Management (Meta, X, LinkedIn)",
+      "Email Marketing & Automation",
+      "Brand Development & Positioning",
+      "PPC/SEM (Google Ads, Bing)",
+      "Marketing Budget Management",
+      "CRM Systems (Salesforce, HubSpot)",
+      "A/B Testing & Conversion Optimization",
+      "Team Leadership & Development",
+      "Stakeholder Communication",
+      "Marketing Technology Stack",
+      "Customer Journey Mapping",
+      "Google Analytics 4 (GA4)",
+      "Google Tag Manager",
+      "SEMrush",
+      "Ahrefs",
+      "Hootsuite",
+      "Sprout Social",
+      "Mailchimp",
+      "Marketo",
+      "HubSpot",
+      "Salesforce",
+      "Tableau",
+      "Canva",
+      "Adobe Creative Suite",
+      "Photoshop",
+      "Illustrator",
+      "WordPress",
+      "Shopify",
+      "Zapier"
+    ],
+    "work_experience": [
+      {
+        "job_title": "Senior Digital Marketing Manager",
+        "company_name": "BRIGHTWAVE MARKETING AGENCY",
+        "location": "Austin, TX",
+        "employment_type": "full_time",
+        "start_date": "2022-04-01",
+        "end_date": null,
+        "is_current": true,
+        "description": null,
+        "key_responsibilities": [
+          "Spearhead integrated digital marketing strategies for 15+ B2B/B2C clients across SaaS, e-commerce, and healthcare industries with combined annual revenue of $45M+",
+          "Increased client organic traffic by average of 340% through comprehensive SEO strategy including technical audits, content optimization, and link building",
+          "Manage team of 8 marketing specialists (content writers, PPC specialists, social media managers, graphic designers) with focus on professional development",
+          "Achieved average ROAS (Return on Ad Spend) of 5.2:1 across Google Ads and Meta campaigns, managing monthly ad spend of $185K across all client accounts",
+          "Developed and implemented marketing automation workflows resulting in 67% increase in lead nurturing efficiency and 43% improvement in lead-to-customer conversion",
+          "Present monthly performance reports and strategic recommendations to C-suite executives and key stakeholders",
+          "Launched rebranding campaign for major client that resulted in 215% increase in brand awareness and $3.2M in new business within 6 months"
+        ]
+      },
+      {
+        "job_title": "Digital Marketing Manager",
+        "company_name": "ELEVATION TECHNOLOGIES INC",
+        "location": "Remote (Seattle, WA)",
+        "employment_type": "full_time",
+        "start_date": "2020-02-01",
+        "end_date": "2022-03-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Led digital marketing initiatives for B2B SaaS company serving enterprise clients",
+          "Grew marketing qualified leads (MQLs) by 290% YoY through multi-channel demand generation campaigns including content marketing, webinars, and paid advertising",
+          "Reduced customer acquisition cost (CAC) by 38% while simultaneously increasing monthly recurring revenue (MRR) by $425K",
+          "Built and managed company's first marketing automation system using HubSpot, creating 25+ automated workflows and email sequences",
+          "Established company blog that grew to 85K monthly visitors, ranking #1 for 50+ targeted keywords in competitive SaaS space",
+          "Collaborated with Sales team to develop account-based marketing (ABM) strategy targeting Fortune 500 companies, resulting in 12 new enterprise deals worth $2.8M",
+          "Managed external agencies and freelancers for specialized projects (video production, graphic design, content writing)"
+        ]
+      },
+      {
+        "job_title": "Marketing Manager",
+        "company_name": "NexGen E-Commerce Solutions",
+        "location": "Denver, CO",
+        "employment_type": "full_time",
+        "start_date": "2018-01-01",
+        "end_date": "2020-01-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Directed all marketing activities for fast-growing e-commerce startup with 200+ SKUs",
+          "Implemented data-driven email marketing strategy that generated $1.2M in revenue with average email open rate of 28% and CTR of 4.5% (150% above industry average)",
+          "Launched successful influencer marketing program partnering with 40+ micro-influencers, reaching combined audience of 2.5M and driving $650K in attributed sales",
+          "Increased social media following from 15K to 180K across Instagram, Facebook, and TikTok through consistent content strategy and community engagement",
+          "Managed $450K annual marketing budget across paid search, social, display, and affiliate channels"
+        ]
+      },
+      {
+        "job_title": "Digital Marketing Specialist",
+        "company_name": "Digital Spark Marketing Co.",
+        "location": "San Diego, California",
+        "employment_type": "full_time",
+        "start_date": "2015-05-01",
+        "end_date": "2017-12-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Executed PPC campaigns across Google Ads, Bing Ads, and social platforms for 20+ clients",
+          "Managed monthly ad budgets ranging from $10K to $85K with average CTR of 3.8%",
+          "Conducted keyword research, ad copywriting, landing page optimization, and bid management",
+          "Created monthly performance reports and presented insights to clients",
+          "Achieved average client retention rate of 92%"
+        ]
+      },
+      {
+        "job_title": "Marketing Coordinator",
+        "company_name": "Digital Spark Marketing Co.",
+        "location": "San Diego, California",
+        "employment_type": "full_time",
+        "start_date": "2014-06-01",
+        "end_date": "2015-04-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Supported senior marketing team with campaign execution and administrative tasks",
+          "Managed social media accounts and created content calendar",
+          "Coordinated marketing events and trade show participation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Business Administration (BBA)",
+        "institution": "UNIVERSITY OF TEXAS AT AUSTIN",
+        "field_of_study": "Marketing, Minor: Digital Media",
+        "education_level": "bachelor",
+        "start_date": null,
+        "end_date": "2014-05-01",
+        "gpa": 3.7,
+        "honors": [
+          "Dean's List: 2012",
+          "Dean's List: 2013",
+          "Dean's List: 2014"
+        ]
+      }
+    ],
+    "projects": [],
+    "publications": [
+      {
+        "title": "The Future of AI in Marketing",
+        "description": "Speaker, MarketingProfs B2B Forum",
+        "url": null,
+        "publication_date": "2024-10-01"
+      },
+      {
+        "title": "Digital Marketing Strategy",
+        "description": "Guest Lecturer, UT Austin",
+        "url": null,
+        "publication_date": "2023-01-01"
+      },
+      {
+        "title": "The Digital Marketing Playbook",
+        "description": "Contributing Author, Industry Publication",
+        "url": null,
+        "publication_date": "2022-01-01"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Google Ads Certification (Search, Display, Video)",
+        "issuing_organization": "Google",
+        "issue_date": "2016-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Google Analytics Individual Qualification (GAIQ)",
+        "issuing_organization": "Google",
+        "issue_date": "2024-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "HubSpot Inbound Marketing Certification",
+        "issuing_organization": "HubSpot",
+        "issue_date": "2023-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Facebook Blueprint Certification",
+        "issuing_organization": "Facebook",
+        "issue_date": "2024-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Content Marketing Certification",
+        "issuing_organization": "HubSpot Academy",
+        "issue_date": "2022-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "SEO Specialization",
+        "issuing_organization": "University of California, Davis (Coursera)",
+        "issue_date": "2021-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Certified Scrum Product Owner (CSPO)",
+        "issuing_organization": "Scrum Alliance",
+        "issue_date": "2023-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "role": "Marketing Advisor",
+        "organization": "Austin Small Business Development Center",
+        "location": "Austin, Texas",
+        "start_date": "2020-01-01",
+        "end_date": null,
+        "is_current": true,
+        "description": "Pro bono marketing consulting for local startups and small businesses"
+      }
+    ],
+    "languages": [],
+    "achievements": null,
+    "awards": [
+      {
+        "title": "\"40 Under 40\" Rising Marketing Leaders",
+        "issuer": "Austin Business Journal",
+        "date": "2024-01-01",
+        "description": null
+      },
+      {
+        "title": "Best Digital Marketing Campaign",
+        "issuer": "Austin Marketing Awards",
+        "date": "2023-01-01",
+        "description": null
+      },
+      {
+        "title": "Employee of the Year",
+        "issuer": "Elevation Technologies",
+        "date": "2021-01-01",
+        "description": null
+      }
+    ],
+    "personal_interests": []
+  },
+  {
+    "full_name": "Priya Mehta",
+    "email": "priya.mehta.ai@gmail.com",
+    "phone_number": "+91 9823456789",
+    "location": "Bengaluru, India",
+    "professional_title": null,
+    "professional_summary": "AI/ML Engineer with 4+ years of experience in developing deep learning models, deploying NLP solutions, and leading data-driven projects. Skilled at working across the ML lifecycle from data preprocessing to production deployment. Passionate about Generative AI and scalable ML systems.",
+    "linkedin_url": "https://linkedin.com/in/priyamehta",
+    "github_url": "https://github.com/priyamehta-ai",
+    "portfolio_url": "https://priya-mehta.dev/",
+    "personal_website": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "C++",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Hugging Face Transformers",
+      "Scikit-learn",
+      "Docker",
+      "Kubernetes",
+      "GitHub Actions",
+      "AWS (S3, SageMaker)",
+      "GCP (Vertex AI)",
+      "Azure",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Tableau",
+      "LLM Fine-tuning",
+      "RAG",
+      "Prompt Engineering",
+      "LangChain",
+      "OpenCV",
+      "CNNs",
+      "YOLOv8",
+      "Segmentation",
+      "Feature Extraction",
+      "Leadership",
+      "Communication",
+      "Problem-Solving",
+      "Critical Thinking"
+    ],
+    "work_experience": [
+      {
+        "job_title": "Senior AI Engineer",
+        "company_name": "Infosys AI Lab",
+        "location": "Bengaluru",
+        "employment_type": "full_time",
+        "start_date": "2022-01-01",
+        "end_date": null,
+        "is_current": true,
+        "description": "Designed and deployed a BERT-based question-answering system used by 50,000+ employees. Led a team of 3 engineers to optimize NLP pipelines, reducing inference latency by 40%. Integrated CI/CD workflows for ML models with Docker & Kubernetes on AWS. Achievements: Won Infosys “Innovation Champion” Award (2023). Achieved 92% F1-score on custom entity recognition task.",
+        "key_responsibilities": [
+          "Designed and deployed a BERT-based question-answering system used by 50,000+ employees.",
+          "Led a team of 3 engineers to optimize NLP pipelines, reducing inference latency by 40%.",
+          "Integrated CI/CD workflows for ML models with Docker & Kubernetes on AWS."
+        ]
+      },
+      {
+        "job_title": "AI/ML Engineer",
+        "company_name": "TCS Research",
+        "location": "Pune",
+        "employment_type": "full_time",
+        "start_date": "2020-06-01",
+        "end_date": "2021-12-01",
+        "is_current": false,
+        "description": "Built a computer vision system for defect detection in manufacturing using YOLOv5. Collaborated with cross-functional teams to deploy ML solutions at scale. Developed predictive analytics dashboards using Tableau. Achievements: Reduced manual inspection time by 70%.",
+        "key_responsibilities": [
+          "Built a computer vision system for defect detection in manufacturing using YOLOv5.",
+          "Collaborated with cross-functional teams to deploy ML solutions at scale.",
+          "Developed predictive analytics dashboards using Tableau."
+        ]
+      },
+      {
+        "job_title": "Data Science Intern",
+        "company_name": "Wipro Digital",
+        "location": "Remote",
+        "employment_type": "internship",
+        "start_date": "2020-01-01",
+        "end_date": "2020-05-01",
+        "is_current": false,
+        "description": "Built customer churn prediction models using scikit-learn and XGBoost. Automated preprocessing pipelines with Python and SQL.",
+        "key_responsibilities": [
+          "Built customer churn prediction models using scikit-learn and XGBoost.",
+          "Automated preprocessing pipelines with Python and SQL."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master of Technology (M.Tech)",
+        "institution": "IIT Madras",
+        "field_of_study": "Artificial Intelligence",
+        "education_level": "master",
+        "start_date": "2018-08-01",
+        "end_date": "2020-05-01",
+        "gpa": 9.1,
+        "honors": []
+      },
+      {
+        "degree": "Bachelor of Engineering (B.E.)",
+        "institution": "Savitribai Phule Pune University",
+        "field_of_study": "Computer Engineering",
+        "education_level": "bachelor",
+        "start_date": "2014-08-01",
+        "end_date": "2018-05-01",
+        "gpa": 8.5,
+        "honors": [
+          "First Class with Distinction"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Healthcare Chatbot",
+        "description": "Built a medical chatbot using Llama 2 + LangChain with RAG from clinical PDFs. Achieved 93% retrieval accuracy with FAISS vector DB.",
+        "github_url": "https://github.com/priyamehta-ai/healthbot",
+        "project_url": null
+      },
+      {
+        "name": "AI-Powered Resume Screener",
+        "description": "Developed a resume parser and ranking system using GPT + embeddings. Reduced recruiter screening time by 60%.",
+        "github_url": "https://github.com/priyamehta-ai/resume-screener",
+        "project_url": null
+      },
+      {
+        "name": "Image Captioning with Attention Mechanism",
+        "description": "Implemented CNN + LSTM + Attention model to generate captions for COCO dataset.",
+        "github_url": null,
+        "project_url": null
+      }
+    ],
+    "publications": [
+      {
+        "title": "Optimizing NLP Pipelines with Transformers: A Case Study in Enterprise Search.",
+        "description": "IEEE International Conference on AI, Singapore.",
+        "url": null,
+        "publication_date": "2021-01-01"
+      },
+      {
+        "title": "Image Captioning using Attention Models.",
+        "description": "ACM Multimedia Conference.",
+        "url": null,
+        "publication_date": "2019-01-01"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "TensorFlow Developer Certificate",
+        "issuing_organization": "Google",
+        "issue_date": "2021-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "AWS Certified Machine Learning Specialty",
+        "issuing_organization": "Amazon",
+        "issue_date": "2022-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "DeepLearning.AI Generative AI with LLMs",
+        "issuing_organization": "Coursera",
+        "issue_date": "2023-01-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "role": "Mentor",
+        "organization": "Women in AI",
+        "location": null,
+        "start_date": null,
+        "end_date": null,
+        "is_current": false,
+        "description": "Guiding 20+ students on ML projects."
+      }
+    ],
+    "languages": [
+      "English (Professional Proficiency)",
+      "Hindi (Native Proficiency)",
+      "Kannada (Conversational)"
+    ],
+    "achievements": null,
+    "awards": [
+      {
+        "title": "Innovation Champion Award",
+        "issuer": "Infosys",
+        "date": "2023-01-01",
+        "description": null
+      }
+    ],
+    "personal_interests": [
+      "Photography",
+      "Blogging on AI ethics",
+      "Trekking"
+    ]
+  },
+  {
+    "full_name": "SARAH CHEN",
+    "email": "sarah.chen@emailprovider.com",
+    "phone_number": "+1 (555) 123-4567",
+    "location": "San Francisco Bay Area, CA 94102",
+    "professional_title": "Senior Software Engineer | Full-Stack Developer",
+    "professional_summary": "Highly accomplished Senior Software Engineer with 8+ years of experience building scalable web applications and distributed systems. Expertise in React, Node.js, Python, and cloud infrastructure (AWS/GCP). Led cross-functional teams of 5-12 engineers and delivered products serving 2M+ users. Passionate about clean code, system design, and mentoring junior developers.",
+    "linkedin_url": "https://linkedin.com/in/sarahchen",
+    "github_url": "https://github.com/sarahchen",
+    "portfolio_url": null,
+    "personal_website": "https://sarahchen.dev/",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "Go",
+      "SQL",
+      "GraphQL",
+      "HTML5",
+      "CSS3",
+      "React.js",
+      "Next.js",
+      "Vue.js",
+      "Redux",
+      "Tailwind CSS",
+      "Webpack",
+      "Jest",
+      "Node.js",
+      "Express",
+      "Django",
+      "FastAPI",
+      "Spring Boot",
+      "RESTful APIs",
+      "Microservices",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "DynamoDB",
+      "AWS (EC2, S3, Lambda, RDS)",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitHub Actions",
+      "Terraform",
+      "Git",
+      "JIRA",
+      "Figma",
+      "Postman",
+      "DataDog",
+      "Sentry",
+      "System Design",
+      "Mentoring",
+      "Agile/Scrum"
+    ],
+    "work_experience": [
+      {
+        "job_title": "Senior Software Engineer",
+        "company_name": "TechVentures Inc.",
+        "location": "San Francisco, CA",
+        "employment_type": "full_time",
+        "start_date": "2021-03-01",
+        "end_date": null,
+        "is_current": true,
+        "description": null,
+        "key_responsibilities": [
+          "Architected and developed a real-time analytics dashboard using React, Node.js, and WebSockets, reducing data latency by 73% and serving 50K+ concurrent users",
+          "Led migration from monolithic architecture to microservices, improving system reliability from 97.2% to 99.8% uptime",
+          "Mentored team of 6 junior engineers through code reviews, pair programming, and bi-weekly technical workshops",
+          "Implemented CI/CD pipeline using Jenkins and Docker, reducing deployment time from 2 hours to 12 minutes",
+          "Collaborated with Product and Design teams using Agile/Scrum methodology (2-week sprints)"
+        ]
+      },
+      {
+        "job_title": "Software Engineer II",
+        "company_name": "TechVentures Inc.",
+        "location": "San Francisco, CA",
+        "employment_type": "full_time",
+        "start_date": "2019-01-01",
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Developed RESTful APIs handling 1.5M requests/day with average response time under 200ms",
+          "Built automated testing framework increasing code coverage from 45% to 89%",
+          "Optimized database queries reducing load times by 60% across core application features"
+        ]
+      },
+      {
+        "job_title": "Full-Stack Developer",
+        "company_name": "DataStream Solutions",
+        "location": "Remote (San Jose, CA)",
+        "employment_type": "full_time",
+        "start_date": "2017-06-01",
+        "end_date": "2018-12-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Engineered customer-facing SaaS platform from ground up serving B2B clients in fintech sector",
+          "Integrated third-party APIs (Stripe, Plaid, SendGrid) for payment processing and communications",
+          "Implemented OAuth 2.0 authentication and role-based access control (RBAC) system",
+          "Reduced infrastructure costs by 40% through AWS resource optimization and auto-scaling implementation"
+        ]
+      },
+      {
+        "job_title": "Junior Software Developer",
+        "company_name": "Innovatech Startup",
+        "location": "Palo Alto, CA",
+        "employment_type": "full_time",
+        "start_date": "2016-08-01",
+        "end_date": "2017-05-01",
+        "is_current": false,
+        "description": null,
+        "key_responsibilities": [
+          "Developed responsive web interfaces using HTML5, CSS3, and vanilla JavaScript for e-commerce platform",
+          "Fixed 100+ bugs and implemented 25+ features based on user feedback and analytics",
+          "Participated in daily standups and sprint planning meetings"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "University of California, Berkeley",
+        "field_of_study": "Computer Science",
+        "education_level": "bachelor",
+        "start_date": null,
+        "end_date": "2016-05-01",
+        "gpa": 3.8,
+        "honors": []
+      }
+    ],
+    "projects": [
+      {
+        "name": "DevCollab",
+        "description": "Open-source real-time collaboration tool for developers with 2.3K+ GitHub stars. Built with Next.js, Socket.io, and MongoDB.",
+        "github_url": "https://github.com/sarahchen/devcollab",
+        "project_url": null
+      },
+      {
+        "name": "SmartExpense Tracker",
+        "description": "Personal finance mobile app using React Native and Firebase. Features: AI-powered expense categorization, receipt scanning (OCR), budget alerts. 10K+ downloads on Google Play.",
+        "github_url": null,
+        "project_url": null
+      }
+    ],
+    "publications": [
+      {
+        "title": "Optimizing React Performance at Scale",
+        "description": "Speaker at ReactConf 2023",
+        "url": null,
+        "publication_date": "2023-01-01"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect – Associate",
+        "issuing_organization": "Amazon Web Services",
+        "issue_date": "2023-01-01",
+        "expiry_date": "2026-01-01",
+        "credential_id": null,
+        "credential_url": null
+      },
+      {
+        "name": "Certified Kubernetes Administrator (CKA)",
+        "issuing_organization": "Cloud Native Computing Foundation",
+        "issue_date": "2024-09-01",
+        "expiry_date": null,
+        "credential_id": null,
+        "credential_url": null
+      }
+    ],
+    "volunteer_experience": [],
+    "languages": [
+      "English (Native)",
+      "Mandarin Chinese (Professional working proficiency)",
+      "Spanish (Elementary proficiency)"
+    ],
+    "achievements": null,
+    "awards": [
+      {
+        "title": "Winner, TechCrunch Disrupt Hackathon 2022",
+        "issuer": "TechCrunch Disrupt Hackathon",
+        "date": "2022-01-01",
+        "description": "Built AI-powered code review tool"
+      },
+      {
+        "title": "Open Source Contributor",
+        "issuer": null,
+        "date": null,
+        "description": "500+ contributions to popular repos (webpack, react-router)"
+      }
+    ],
+    "personal_interests": []
+  },
+  {
+    "full_name": "Shahnawaz Shaikh",
+    "email": "sshahnawaz567@gmail.com",
+    "phone_number": "+91 9702611605",
+    "location": null,
+    "professional_title": "AI / ML Engineer",
+    "professional_summary": null,
+    "linkedin_url": "https://www.linkedin.com/in/shahnawaz567/",
+    "github_url": "https://github.com/sshahnawaz567",
+    "portfolio_url": "https://shahnawazportfolio.framer.website/",
+    "personal_website": null,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "scikit-learn",
+      "Hugging Face Transformers",
+      "LangChain",
+      "LangGraph",
+      "CNNs",
+      "GANs",
+      "VAEs",
+      "LLMs",
+      "Fine-Tuning",
+      "Generative AI",
+      "Retrieval-Augmented Generation (RAG)",
+      "Prompt Engineering",
+      "OpenCV",
+      "Feature Extraction",
+      "Segmentation",
+      "Augmentation",
+      "Tokenization",
+      "Vector Databases",
+      "RAG Pipelines",
+      "Data Gathering",
+      "Pre-processing",
+      "Augmentation",
+      "EDA",
+      "Feature Engineering",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "CI/CD",
+      "Agile Methodologies",
+      "Git",
+      "Docker",
+      "Google Cloud Platform (GCP)",
+      "AWS",
+      "Tableau",
+      "MS Office",
+      "HTML",
+      "CSS",
+      "Flask",
+      "FastAPI",
+      "Pydantic",
+      "Communication",
+      "Leadership",
+      "Teamwork",
+      "Problem-Solving",
+      "Innovative",
+      "Proactive",
+      "Data-Driven Solutions"
+    ],
+    "work_experience": [
+      {
+        "job_title": "AI-Researcher Generative AI & Clustering Specialist",
+        "company_name": "4iamericas",
+        "location": null,
+        "employment_type": "full_time",
+        "start_date": "2025-06-01",
+        "end_date": null,
+        "is_current": true,
+        "description": "Lead generative and clustering analytics on GCP, leveraging GPT-4o mini for summarization and Vertex AI for model training, achieving <2% noise reduction in enterprise data.",
+        "key_responsibilities": [
+          "Lead generative and clustering analytics on GCP, leveraging GPT-4o mini for summarization and Vertex AI for model training, achieving <2% noise reduction in enterprise data.",
+          "Designed end-to-end NLP pipelines with ‘intfloat/e5‘ embeddings and hybrid clustering (UMAP, HDBSCAN) for PII detection and entity masking.",
+          "Fine-tuning generative models for multi-source data summarization and building hybrid geospatial visualization systems using ArcGIS and Weaviate/MongoDB."
+        ]
+      },
+      {
+        "job_title": "AI/ML Intern",
+        "company_name": "LineupX - IIT Bombay",
+        "location": null,
+        "employment_type": "internship",
+        "start_date": "2025-01-01",
+        "end_date": "2025-06-01",
+        "is_current": false,
+        "description": "Deployed a client-side AI proctoring system using TensorFlow.js and MediaPipe, leveraging WebGPU for real-time analysis to reduce server costs and scale to thousands of users.",
+        "key_responsibilities": [
+          "Deployed a client-side AI proctoring system using TensorFlow.js and MediaPipe, leveraging WebGPU for real-time analysis to reduce server costs and scale to thousands of users."
+        ]
+      },
+      {
+        "job_title": "AI/ML Intern",
+        "company_name": "WebMobi 360",
+        "location": null,
+        "employment_type": "internship",
+        "start_date": "2023-09-01",
+        "end_date": "2023-12-01",
+        "is_current": false,
+        "description": "Developed a facial recognition system using Siamese Neural Networks for a B2B AI-driven interview platform, enabling one-shot image recognition and improving performance with data augmentation.",
+        "key_responsibilities": [
+          "Developed a facial recognition system using Siamese Neural Networks for a B2B AI-driven interview platform, enabling one-shot image recognition and improving performance with data augmentation."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "institution": "University of Mumbai",
+        "field_of_study": "AI & Data Science",
+        "education_level": "bachelor",
+        "start_date": null,
+        "end_date": "2025-01-01",
+        "gpa": 8.65,
+        "honors": []
+      },
+      {
+        "degree": "Diploma",
+        "institution": "MH Saboo Siddik Polytechnic",
+        "field_of_study": null,
+        "education_level": "diploma",
+        "start_date": null,
+        "end_date": "2022-01-01",
+        "gpa": null,
+        "honors": []
+      }
+    ],
+    "projects": [
+      {
+        "name": "GenAgent-Personalized-Career-Assistant-Powered-by-Agentic-AI",
+        "description": "Architected a full-stack AI career assistant (FastAPI, Streamlit) providing data-driven resume feedback and job application tools. Engineered a multi-feature platform using LLM agents (GPT-4) for resume analysis, rewriting, and cover letter generation. Containerized the application using Docker, ensuring reproducible builds and simplifying deployment.",
+        "github_url": null,
+        "project_url": null
+      },
+      {
+        "name": "AI Medical Chatbot Using Llama 2",
+        "description": "Engineered a RAG medical chatbot using Llama 2 and LangChain to provide accurate answers from a PDF knowledge base. Implemented a FAISS vector database, achieving 95% retrieval accuracy and reducing response latency by 50%.",
+        "github_url": "https://github.com/sshahnawaz567/Ai-medical-chatbot-Llama2",
+        "project_url": null
+      },
+      {
+        "name": "AI Large-Scale Candidate Recommendation System",
+        "description": "(Part of LineupX Internship) Developed a scalable candidate-job matching system using GPT-4o mini and advanced prompt engineering. Built a resume parsing pipeline to minimize input size, reducing inference cost and time.",
+        "github_url": null,
+        "project_url": null
+      }
+    ],
+    "publications": [
+      {
+        "title": "EduNote: AI-Powered Cultural and Location-Based Note Generation from Images",
+        "description": "Developed an AI tool to transform images of landmarks into travel notes using a fine-tuned DenseNet121 model and APIs (Wikipedia, TripAdvisor). Achieved 88.83% classification accuracy and a 0.91 F1-score on 20 Indian monuments by optimizing the model and using LLaMA3-70B for text generation.",
+        "url": "https://drive.google.com/file/d/1nK2ZijT4uiAZzEsxiORYlC5ridghABWA/view?usp=sharing",
+        "publication_date": null
+      }
+    ],
+    "certifications": [],
+    "volunteer_experience": [],
+    "languages": [],
+    "achievements": null,
+    "awards": [],
+    "personal_interests": []
+  }
+]

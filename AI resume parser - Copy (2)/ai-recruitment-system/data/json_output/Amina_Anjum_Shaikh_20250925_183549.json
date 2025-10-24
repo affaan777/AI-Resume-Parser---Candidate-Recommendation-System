@@ -1,0 +1,77 @@
+{
+  "full_name": "Amina Anjum Shaikh",
+  "email": "aminaanjum2004@gmail.com",
+  "phone_number": "+971 50 126 9533",
+  "location": "Abu Dhabi",
+  "professional_title": "Computer Engineer",
+  "linkedin_url": "https://www.linkedin.com/in/amina-anjum-shaikh/",
+  "github_url": null,
+  "portfolio_url": null,
+  "achievements": [],
+  "personal_interests": [
+    "Exploring & Travelling",
+    "Technology Innovation",
+    "Early Childhood Development"
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+    "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+    "HTML",
+    "CSS",
+    "WIX",
+    "UI/UX Design",
+    "Graphic Design",
+    "Visual Communication",
+    "Leadership",
+    "Communication",
+    "Organization",
+    "Time Management",
+    "Teamwork",
+    "Collaboration",
+    "Creative Problem-Solving"
+  ],
+  "education": [
+    {
+      "degree": "BTech Computer Engineering",
+      "institution": "RKDF University",
+      "year": "2027",
+      "grades": "Not specified"
+    },
+    {
+      "degree": "Diploma in Computer Engineering",
+      "institution": "Govt. Polytechnic Mumbai",
+      "year": "2023",
+      "grades": "82.80%"
+    },
+    {
+      "degree": "SSC",
+      "institution": "St. Anthony’s High School",
+      "year": null,
+      "grades": "73.80%"
+    }
+  ],
+  "work_experience": [
+    {
+      "role": "Pre-Primary Teacher",
+      "company": "N.T.C.C High School Mumbai",
+      "years": "Oct 2023 – Dec 2024",
+      "description": "Planned and delivered age-appropriate educational activities for pre-primary students (ages 3-6).\nCreated engaging learning environments using creative teaching methods and educational technology.\nDeveloped interactive learning materials and maintained detailed records of student progress and achievements."
+    },
+    {
+      "role": "UI/UX Designer & Graphic Designer (Intern)",
+      "company": "TrainingInbox Edtech Pvt Ltd",
+      "years": "Feb 2023 – June 2023",
+      "description": "Designed user interfaces for educational technology platforms and created marketing materials.\nCollaborated with development team on user experience improvements and design prototypes."
+    }
+  ],
+  "projects": [],
+  "publications": [],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ]
+}

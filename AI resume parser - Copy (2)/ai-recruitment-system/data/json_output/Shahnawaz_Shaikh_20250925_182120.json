@@ -1,0 +1,143 @@
+{
+  "full_name": "Shahnawaz Shaikh",
+  "email": "sshahnawaz567@gmail.com",
+  "phone_number": "+91 9702611605",
+  "location": null,
+  "professional_title": "AI / ML Engineer",
+  "linkedin_url": "https://www.linkedin.com/in/shahnawaz567/",
+  "github_url": "https://github.com/sshahnawaz567",
+  "portfolio_url": "https://shahnawazportfolio.framer.website/",
+  "achievements": [],
+  "personal_interests": [],
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Keras",
+    "scikit-learn",
+    "Hugging Face Transformers",
+    "LangChain",
+    "LangGraph",
+    "CNNs",
+    "GANs",
+    "VAEs",
+    "LLMs",
+    "Fine-Tuning",
+    "Generative AI",
+    "Retrieval-Augmented Generation (RAG)",
+    "Prompt Engineering",
+    "OpenCV",
+    "Feature Extraction",
+    "Segmentation",
+    "Augmentation",
+    "Tokenization",
+    "Vector Databases",
+    "RAG Pipelines",
+    "Data Gathering",
+    "Pre-processing",
+    "Augmentation",
+    "EDA",
+    "Feature Engineering",
+    "Supervised/Unsupervised Learning",
+    "CI/CD",
+    "Agile Methodologies",
+    "Git",
+    "Docker",
+    "Google Cloud Platform (GCP)",
+    "AWS",
+    "Tableau",
+    "MS Office",
+    "HTML",
+    "CSS",
+    "Flask",
+    "FastAPI",
+    "Pydantic",
+    "Communication",
+    "Leadership",
+    "Teamwork",
+    "Problem-Solving",
+    "Innovative",
+    "Proactive",
+    "Data-Driven Solutions"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering (AI & Data Science)",
+      "institution": "University of Mumbai",
+      "year": "2025",
+      "grades": "8.65/10"
+    },
+    {
+      "degree": "Diploma",
+      "institution": "MH Saboo Siddik Polytechnic",
+      "year": "2022",
+      "grades": "84%"
+    }
+  ],
+  "work_experience": [
+    {
+      "role": "AI Scientist – Generative Insights & Clustering Specialist",
+      "company": "4iamericas",
+      "years": "June 2025 – Present",
+      "description": "Engineered a robust NLP data pipeline leveraging the GPT-4o mini API for PII reduction and data cleaning, combined\nwith intfloat/e5 embeddings in Weaviate to enable advanced clustering with <2% noise.\nDeveloped a hybrid geospatial visualization system using ArcGIS Pro and Deck.gl to create interactive maps of com-\nplex cluster relationships and topological data.\nFine-tuned generative AI models to analyze, summarize, and synthesize multi-source corporate data (tickets, emails,\nmeetings) into actionable summaries and recommendations."
+    },
+    {
+      "role": "AI/ML Intern",
+      "company": "LineupX - IIT Bombay",
+      "years": "Jan 2025 – June 2025",
+      "description": "AI Proctoring System: Developed a frontend-based AI proctoring solution using TensorFlow.js and WebGPU, enabling\nreal-time, serverless monitoring for thousands of users and cutting infrastructure costs."
+    },
+    {
+      "role": "AI/ML Intern",
+      "company": "WebMobi 360",
+      "years": "Sept 2023 – Dec 2023",
+      "description": "Developed a facial recognition system using Siamese Neural Networks for a B2B AI-driven interview platform, enabling\none-shot image recognition and improving performance with data augmentation."
+    }
+  ],
+  "projects": [
+    {
+      "name": "GenAgent-Personalized-Career-Assistant-Powered-by-Agentic-AI",
+      "description": "Architected a full-stack AI career assistant (FastAPI, Streamlit) providing data-driven resume feedback and job appli-\ncation tools.\nEngineered a multi-feature platform using LLM agents (GPT-4) for resume analysis, rewriting, and cover letter gener-\nation.\nContainerized the application using Docker, ensuring reproducible builds and simplifying deployment.",
+      "technologies": [
+        "FastAPI",
+        "Streamlit",
+        "LLM agents (GPT-4)",
+        "Docker"
+      ],
+      "github_url": null
+    },
+    {
+      "name": "AI Medical Chatbot Using Llama 2",
+      "description": "Engineered a RAG medical chatbot using Llama 2 and LangChain to provide accurate answers from a PDF knowledge\nbase.\nImplemented a FAISS vector database, achieving 95% retrieval accuracy and reducing response latency by 50%.",
+      "technologies": [
+        "Llama 2",
+        "LangChain",
+        "FAISS vector database"
+      ],
+      "github_url": "https://github.com/sshahnawaz567/Ai-medical-chatbot-Llama2"
+    },
+    {
+      "name": "AI Large-Scale Candidate Recommendation System",
+      "description": "Developed a scalable candidate-job matching system using GPT-4o mini and advanced prompt engineering.\nBuilt a resume parsing pipeline to minimize input size, reducing inference cost and time.",
+      "technologies": [
+        "GPT-4o mini"
+      ],
+      "github_url": null
+    }
+  ],
+  "publications": [
+    {
+      "name": "EduNote: AI-Powered Cultural and Location-Based Note Generation from Images",
+      "description": "Developed an AI tool to transform images of landmarks into travel notes using a fine-tuned DenseNet121 model and\nAPIs (Wikipedia, TripAdvisor).\nAchieved 88.83% classification accuracy and a 0.91 F1-score on 20 Indian monuments by optimizing the model and\nusing LLaMA3-70B for text generation.",
+      "technologies": [
+        "DenseNet121",
+        "Wikipedia API",
+        "TripAdvisor API",
+        "LLaMA3-70B"
+      ],
+      "research_paper_url": "https://drive.google.com/file/d/1nK2ZijT4uiAZzEsxiORYlC5ridghABWA/view?usp=sharing"
+    }
+  ],
+  "certifications": null,
+  "languages": null
+}

@@ -1,0 +1,163 @@
+{
+  "full_name": "Shahnawaz Shaikh",
+  "email": "sshahnawaz567@gmail.com",
+  "phone_number": "+91 9702611605",
+  "location": null,
+  "professional_title": "AI / ML Engineer",
+  "professional_summary": null,
+  "linkedin_url": "https://www.linkedin.com/in/shahnawaz567/",
+  "github_url": "https://github.com/sshahnawaz567",
+  "portfolio_url": "https://shahnawazportfolio.framer.website/",
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Keras"
+    },
+    {
+      "name": "scikit-learn"
+    },
+    {
+      "name": "Hugging Face Transformers"
+    },
+    {
+      "name": "LangChain"
+    },
+    {
+      "name": "LangGraph"
+    },
+    {
+      "name": "CNNs"
+    },
+    {
+      "name": "GANs"
+    },
+    {
+      "name": "VAEs"
+    },
+    {
+      "name": "LLMs"
+    },
+    {
+      "name": "Fine-Tuning"
+    },
+    {
+      "name": "Generative AI"
+    },
+    {
+      "name": "Retrieval-Augmented Generation (RAG)"
+    },
+    {
+      "name": "Prompt Engineering"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "Feature Extraction"
+    },
+    {
+      "name": "Segmentation"
+    },
+    {
+      "name": "Augmentation"
+    },
+    {
+      "name": "Tokenization"
+    },
+    {
+      "name": "Vector Databases"
+    },
+    {
+      "name": "RAG Pipelines"
+    },
+    {
+      "name": "Data Gathering"
+    },
+    {
+      "name": "Pre-processing"
+    },
+    {
+      "name": "EDA"
+    },
+    {
+      "name": "Feature Engineering"
+    },
+    {
+      "name": "Supervised/Unsupervised Learning"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Agile Methodologies"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Google Cloud Platform (GCP)"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Tableau"
+    },
+    {
+      "name": "MS Office"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Pydantic"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "Leadership"
+    },
+    {
+      "name": "Teamwork"
+    },
+    {
+      "name": "Problem-Solving"
+    },
+    {
+      "name": "Innovative"
+    },
+    {
+      "name": "Proactive"
+    },
+    {
+      "name": "Data-Driven Solutions"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "AI Scientist – Generative Insights & Clustering Specialist",
+      "company_name": "4iamericas",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": 

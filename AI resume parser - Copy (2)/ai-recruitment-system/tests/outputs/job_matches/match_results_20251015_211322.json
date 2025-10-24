@@ -1,0 +1,237 @@
+{
+  "timestamp": "2025-10-15T21:13:22.238430",
+  "job_description": "\n    Senior AI/ML Engineer\n    \n    We are seeking an experienced AI/ML Engineer to join our team. The ideal candidate \n    will have strong expertise in machine learning, deep learning, and natural language \n    processing.\n    \n    Required Skills:\n    - Python, PyTorch, TensorFlow\n    - Machine Learning and Deep Learning\n    - Natural Language Processing (NLP)\n    - LLMs and Generative AI\n    - Experience with RAG systems\n    - Cloud platforms (AWS/GCP)\n    - Docker and MLOps\n    \n    Respons...",
+  "total_matches": 10,
+  "matches": [
+    {
+      "rank": 1,
+      "score": 0.778169334,
+      "candidate": {
+        "name": "Priya Mehta",
+        "email": "priya.mehta.ai@gmail.com",
+        "title": "",
+        "location": "Bengaluru, India",
+        "skills_count": 32.0,
+        "top_skills": [
+          "Python",
+          "SQL",
+          "C++",
+          "TensorFlow",
+          "PyTorch",
+          "Keras",
+          "Hugging Face Transformers",
+          "Scikit-learn",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "score": 0.773783147,
+      "candidate": {
+        "name": "Priya Mehta",
+        "email": "priya.mehta.ai@gmail.com",
+        "title": "N/A",
+        "location": "Bengaluru, India",
+        "skills_count": 32.0,
+        "top_skills": [
+          "Python",
+          "SQL",
+          "C++",
+          "TensorFlow",
+          "PyTorch",
+          "Keras",
+          "Hugging Face Transformers",
+          "Scikit-learn",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "score": 0.748821259,
+      "candidate": {
+        "name": "Shahnawaz Shaikh",
+        "email": "sshahnawaz567@gmail.com",
+        "title": null,
+        "location": null,
+        "skills_count": 42.0,
+        "top_skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn",
+          "Hugging Face Transformers",
+          "LangChain",
+          "LangGraph",
+          "CNNs",
+          "GANs"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "score": 0.748821259,
+      "candidate": {
+        "name": "Shahnawaz Shaikh",
+        "email": "sshahnawaz567@gmail.com",
+        "title": null,
+        "location": null,
+        "skills_count": 42.0,
+        "top_skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn",
+          "Hugging Face Transformers",
+          "LangChain",
+          "LangGraph",
+          "CNNs",
+          "GANs"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "score": 0.748821259,
+      "candidate": {
+        "name": "Shahnawaz Shaikh",
+        "email": "sshahnawaz567@gmail.com",
+        "title": "AI / ML Engineer",
+        "location": "",
+        "skills_count": 42.0,
+        "top_skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn",
+          "Hugging Face Transformers",
+          "LangChain",
+          "LangGraph",
+          "CNNs",
+          "GANs"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "score": 0.748821259,
+      "candidate": {
+        "name": "Shahnawaz Shaikh",
+        "email": "sshahnawaz567@gmail.com",
+        "title": null,
+        "location": null,
+        "skills_count": 42.0,
+        "top_skills": [
+          "Python",
+          "PyTorch",
+          "TensorFlow",
+          "Keras",
+          "scikit-learn",
+          "Hugging Face Transformers",
+          "LangChain",
+          "LangGraph",
+          "CNNs",
+          "GANs"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "score": 0.708221674,
+      "candidate": {
+        "name": "SARAH CHEN",
+        "email": "sarah.chen@emailprovider.com",
+        "title": "Senior Software Engineer | Full-Stack Developer",
+        "location": "San Francisco Bay Area, CA 94102",
+        "skills_count": 44.0,
+        "top_skills": [
+          "JavaScript",
+          "TypeScript",
+          "Python",
+          "Java",
+          "Go",
+          "SQL",
+          "GraphQL",
+          "HTML5",
+          "CSS3",
+          "React.js"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "score": 0.707636714,
+      "candidate": {
+        "name": "SARAH CHEN",
+        "email": "sarah.chen@emailprovider.com",
+        "title": "Senior Software Engineer | Full-Stack Developer",
+        "location": "San Francisco Bay Area, CA 94102",
+        "skills_count": 45.0,
+        "top_skills": [
+          "JavaScript",
+          "TypeScript",
+          "Python",
+          "Java",
+          "Go",
+          "SQL",
+          "GraphQL",
+          "HTML5",
+          "CSS3",
+          "React.js"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "score": 0.638938427,
+      "candidate": {
+        "name": "Marcus Johnson",
+        "email": "m.johnson@webmail.com",
+        "title": "Digital Marketing Manager & Brand Strategist",
+        "location": "Austin, Texas 78701, United States",
+        "skills_count": 32.0,
+        "top_skills": [
+          "Digital Strategy & Planning",
+          "Performance Marketing & Analytics",
+          "Content Marketing & SEO",
+          "Social Media Management (Meta, X, LinkedIn)",
+          "Email Marketing & Automation",
+          "Brand Development & Positioning",
+          "PPC/SEM (Google Ads, Bing)",
+          "Marketing Budget Management",
+          "CRM Systems (Salesforce, HubSpot)",
+          "A/B Testing & Conversion Optimization"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "score": 0.638396,
+      "candidate": {
+        "name": "MARCUS JOHNSON",
+        "email": "m.johnson@webmail.com",
+        "title": "Digital Marketing Manager & Brand Strategist",
+        "location": "Austin, Texas 78701, United States",
+        "skills_count": 44.0,
+        "top_skills": [
+          "Digital Strategy",
+          "Planning",
+          "Performance Marketing",
+          "Analytics",
+          "Content Marketing",
+          "SEO",
+          "Social Media Management",
+          "Meta",
+          "X",
+          "LinkedIn"
+        ]
+      }
+    }
+  ]
+}

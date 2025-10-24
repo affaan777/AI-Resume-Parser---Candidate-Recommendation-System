@@ -1,0 +1,287 @@
+{
+  "full_name": "Shahnawaz Shaikh",
+  "email": "sshahnawaz567@gmail.com",
+  "phone_number": "+91 9702611605",
+  "location": null,
+  "professional_title": "AI / ML Engineer",
+  "professional_summary": null,
+  "linkedin_url": "https://www.linkedin.com/in/shahnawaz567/",
+  "github_url": "https://github.com/sshahnawaz567",
+  "portfolio_url": "https://shahnawazportfolio.framer.website/",
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Keras"
+    },
+    {
+      "name": "scikit-learn"
+    },
+    {
+      "name": "Hugging Face Transformers"
+    },
+    {
+      "name": "LangChain"
+    },
+    {
+      "name": "LangGraph"
+    },
+    {
+      "name": "CNNs"
+    },
+    {
+      "name": "GANs"
+    },
+    {
+      "name": "VAEs"
+    },
+    {
+      "name": "LLMs"
+    },
+    {
+      "name": "Fine-Tuning"
+    },
+    {
+      "name": "Generative AI"
+    },
+    {
+      "name": "Retrieval-Augmented Generation (RAG)"
+    },
+    {
+      "name": "Prompt Engineering"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "Feature Extraction"
+    },
+    {
+      "name": "Segmentation"
+    },
+    {
+      "name": "Augmentation"
+    },
+    {
+      "name": "Tokenization"
+    },
+    {
+      "name": "Vector Databases"
+    },
+    {
+      "name": "RAG Pipelines"
+    },
+    {
+      "name": "Data Gathering"
+    },
+    {
+      "name": "Pre-processing"
+    },
+    {
+      "name": "EDA"
+    },
+    {
+      "name": "Feature Engineering"
+    },
+    {
+      "name": "Supervised Learning"
+    },
+    {
+      "name": "Unsupervised Learning"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Agile Methodologies"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Google Cloud Platform (GCP)"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Tableau"
+    },
+    {
+      "name": "MS Office"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Pydantic"
+    },
+    {
+      "name": "Communication"
+    },
+    {
+      "name": "Leadership"
+    },
+    {
+      "name": "Teamwork"
+    },
+    {
+      "name": "Problem-Solving"
+    },
+    {
+      "name": "Innovative"
+    },
+    {
+      "name": "Proactive"
+    },
+    {
+      "name": "Data-Driven Solutions"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "AI Scientist – Generative Insights & Clustering Specialist",
+      "company_name": "4iamericas",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2025-06-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Engineered a robust NLP data pipeline leveraging the GPT-4o mini API for PII reduction and data cleaning, combined with intfloat/e5 embeddings in Weaviate to enable advanced clustering. Developed a hybrid geospatial visualization system using ArcGIS Pro and Deck.gl to create interactive maps of complex cluster relationships and topological data. Fine-tuned generative AI models to analyze, summarize, and synthesize multi-source corporate data (tickets, emails, meetings) into actionable summaries and recommendations.",
+      "key_responsibilities": [
+        "Engineered a robust NLP data pipeline for PII reduction and data cleaning",
+        "Leveraged GPT-4o mini API and intfloat/e5 embeddings in Weaviate for advanced clustering",
+        "Developed a hybrid geospatial visualization system using ArcGIS Pro and Deck.gl",
+        "Created interactive maps of complex cluster relationships and topological data",
+        "Fine-tuned generative AI models to analyze, summarize, and synthesize multi-source corporate data"
+      ],
+      "technologies_used": [
+        "GPT-4o mini API",
+        "intfloat/e5 embeddings",
+        "Weaviate",
+        "ArcGIS Pro",
+        "Deck.gl",
+        "Generative AI models",
+        "NLP"
+      ]
+    },
+    {
+      "job_title": "AI/ML Intern",
+      "company_name": "LineupX - IIT Bombay",
+      "location": null,
+      "employment_type": "internship",
+      "start_date": "2025-01-01",
+      "end_date": "2025-06-01",
+      "is_current": false,
+      "description": "Developed a frontend-based AI proctoring solution using TensorFlow.js and WebGPU, enabling real-time, serverless monitoring for thousands of users and cutting infrastructure costs.",
+      "key_responsibilities": [
+        "Developed a frontend-based AI proctoring solution"
+      ],
+      "technologies_used": [
+        "TensorFlow.js",
+        "WebGPU"
+      ]
+    },
+    {
+      "job_title": "AI/ML Intern",
+      "company_name": "WebMobi 360",
+      "location": null,
+      "employment_type": "internship",
+      "start_date": "2023-09-01",
+      "end_date": "2023-12-01",
+      "is_current": false,
+      "description": "Developed a facial recognition system using Siamese Neural Networks for a B2B AI-driven interview platform, enabling one-shot image recognition and improving performance with data augmentation.",
+      "key_responsibilities": [
+        "Developed a facial recognition system for a B2B AI-driven interview platform"
+      ],
+      "technologies_used": [
+        "Siamese Neural Networks"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "University of Mumbai",
+      "field_of_study": "AI & Data Science",
+      "education_level": "bachelor",
+      "start_date": null,
+      "end_date": "2025-01-01",
+      "gpa": 8.65
+    },
+    {
+      "degree": "Diploma",
+      "institution": "MH Saboo Siddik Polytechnic",
+      "field_of_study": null,
+      "education_level": "diploma",
+      "start_date": null,
+      "end_date": "2022-01-01",
+      "gpa": null
+    }
+  ],
+  "projects": [
+    {
+      "name": "GenAgent-Personalized-Career-Assistant-Powered-by-Agentic-AI",
+      "description": "Architected a full-stack AI career assistant (FastAPI, Streamlit) providing data-driven resume feedback and job application tools. Engineered a multi-feature platform using LLM agents (GPT-4) for resume analysis, rewriting, and cover letter generation. Containerized the application using Docker, ensuring reproducible builds and simplifying deployment.",
+      "technologies": [
+        "FastAPI",
+        "Streamlit",
+        "LLM agents (GPT-4)",
+        "Docker"
+      ],
+      "github_url": null
+    },
+    {
+      "name": "AI Medical Chatbot Using Llama 2",
+      "description": "Engineered a RAG medical chatbot using Llama 2 and LangChain to provide accurate answers from a PDF knowledge base. Implemented a FAISS vector database, achieving 95% retrieval accuracy and reducing response latency by 50%.",
+      "technologies": [
+        "Llama 2",
+        "LangChain",
+        "FAISS vector database",
+        "RAG"
+      ],
+      "github_url": "https://github.com/sshahnawaz567/Ai-medical-chatbot-Llama2"
+    },
+    {
+      "name": "AI Large-Scale Candidate Recommendation System",
+      "description": "Developed a scalable candidate-job matching system using GPT-4o mini and advanced prompt engineering. Built a resume parsing pipeline to minimize input size, reducing inference cost and time. (Part of LineupX Internship)",
+      "technologies": [
+        "GPT-4o mini",
+        "Prompt Engineering"
+      ],
+      "github_url": null
+    },
+    {
+      "name": "EduNote: AI-Powered Cultural and Location-Based Note Generation from Images",
+      "description": "Developed an AI tool to transform images of landmarks into travel notes using a fine-tuned DenseNet121 model and APIs (Wikipedia, TripAdvisor). This project was published as a research paper.",
+      "technologies": [
+        "DenseNet121",
+        "LLaMA3-70B",
+        "Wikipedia API",
+        "TripAdvisor API"
+      ],
+      "github_url": null
+    }
+  ],
+  "certifications": [],
+  "languages": []
+}

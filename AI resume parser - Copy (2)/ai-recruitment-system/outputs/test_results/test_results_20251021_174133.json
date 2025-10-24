@@ -1,0 +1,96 @@
+{
+  "test_date": "2025-10-21T17:41:33.430230",
+  "total_files": 5,
+  "successful": 3,
+  "failed": 2,
+  "success_rate": 60.0,
+  "timing": {
+    "total_duration": 130.14433550834656,
+    "avg_per_resume": 26.028867101669313
+  },
+  "results": [
+    {
+      "file": "Abhilash Cheerla 2025.pdf",
+      "status": "FAILED",
+      "error": "Failed to retrieve from Pinecone"
+    },
+    {
+      "file": "Alex_sen_software.pdf",
+      "status": "FAILED",
+      "error": "Failed to retrieve from Pinecone"
+    },
+    {
+      "file": "Ashish Boya 2025.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_66ad9bcf5d5240ec",
+        "candidate_name": "Ashish Boya",
+        "email": "anonymous@system.com",
+        "skills_count": 68,
+        "embedding_dims": 768,
+        "token_estimate": 1061,
+        "timings": {
+          "text_extraction": 0.22841548919677734,
+          "parsing": 26.129502058029175,
+          "preprocessing": 0.0,
+          "embedding": 0.5243260860443115,
+          "storage": 0.3657360076904297,
+          "total": 29.4777090549469
+        }
+      }
+    },
+    {
+      "file": "Avinash Reddy 2025.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_b70605fae19c46b5",
+        "candidate_name": "Parse Failed",
+        "email": "parsefailed@system.com",
+        "skills_count": 1,
+        "embedding_dims": 768,
+        "token_estimate": 13,
+        "timings": {
+          "text_extraction": 0.5809149742126465,
+          "parsing": 26.816885948181152,
+          "preprocessing": 0.0,
+          "embedding": 0.42540502548217773,
+          "storage": 0.3075876235961914,
+          "total": 30.415013313293457
+        }
+      }
+    },
+    {
+      "file": "Azeezat_Yekinni 2025.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_4cab95af0f404a00",
+        "candidate_name": "Azeezat Yekinni",
+        "email": "anonymous@system.com",
+        "skills_count": 33,
+        "embedding_dims": 768,
+        "token_estimate": 1032,
+        "timings": {
+          "text_extraction": 0.4835960865020752,
+          "parsing": 21.89068841934204,
+          "preprocessing": 0.0010135173797607422,
+          "embedding": 0.4853935241699219,
+          "storage": 0.34320735931396484,
+          "total": 25.469905376434326
+        }
+      }
+    }
+  ],
+  "errors": [
+    {
+      "file": "Abhilash Cheerla 2025.pdf",
+      "error": "Failed to retrieve from Pinecone"
+    },
+    {
+      "file": "Alex_sen_software.pdf",
+      "error": "Failed to retrieve from Pinecone"
+    }
+  ]
+}

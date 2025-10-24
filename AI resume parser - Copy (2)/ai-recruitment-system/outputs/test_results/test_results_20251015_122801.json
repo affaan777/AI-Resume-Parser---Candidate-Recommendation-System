@@ -1,0 +1,35 @@
+{
+  "test_date": "2025-10-15T12:28:01.422798",
+  "total_files": 1,
+  "successful": 1,
+  "failed": 0,
+  "success_rate": 100.0,
+  "timing": {
+    "total_duration": 21.297785758972168,
+    "avg_per_resume": 21.297785758972168
+  },
+  "results": [
+    {
+      "file": "Dr Jennifer.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_jrodriguez_rn_healthmail_com",
+        "candidate_name": "Jennifer Rodriguez",
+        "email": "jrodriguez.rn@healthmail.com",
+        "skills_count": 28,
+        "embedding_dims": 768,
+        "token_estimate": 737,
+        "timings": {
+          "text_extraction": 0.16010808944702148,
+          "parsing": 16.852747440338135,
+          "preprocessing": 0.0009975433349609375,
+          "embedding": 0.665468692779541,
+          "storage": 1.358410358428955,
+          "total": 21.29632258415222
+        }
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,12 @@
+﻿.env
+__pycache__/
+*.pyc
+CSV_output_resume/
+JSON_output_resume/
+uploaded_resumes/
+*.pdf
+.ipynb_checkpoints/
+*.ipynb
+Documents/
+test/
+resume-parser/

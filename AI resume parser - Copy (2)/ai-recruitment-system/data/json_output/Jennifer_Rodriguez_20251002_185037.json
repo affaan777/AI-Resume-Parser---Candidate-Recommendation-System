@@ -1,0 +1,263 @@
+{
+  "full_name": "Jennifer Rodriguez",
+  "email": "jrodriguez.rn@healthmail.com",
+  "phone_number": "+1 (555) 234-8899",
+  "location": "Boston, Massachusetts 02115",
+  "professional_title": "Registered Nurse - Critical Care & Emergency Medicine",
+  "professional_summary": "Compassionate and detail-oriented Registered Nurse with 12+ years of experience in high-acuity environments including Emergency Department, Intensive Care Unit, and Trauma. Advanced expertise in critical care, emergency response, patient advocacy, and interdisciplinary collaboration. Proven ability to remain calm under pressure while providing exceptional patient care. Strong clinical assessment skills with focus on evidence-based practice and continuous quality improvement. Committed to patient safety, education, and achieving optimal health outcomes.",
+  "linkedin_url": "https://linkedin.com/in/jennifer-rodriguez-rn",
+  "github_url": null,
+  "portfolio_url": null,
+  "personal_website": null,
+  "skills": [
+    "Critical Care Nursing",
+    "Emergency & Trauma Care",
+    "Patient Assessment & Triage",
+    "Hemodynamic Monitoring",
+    "Ventilator Management",
+    "IV Therapy & Central Lines",
+    "Cardiac Arrhythmia Recognition",
+    "Medication Administration",
+    "Wound Care & Management",
+    "Pain Management & Palliative Care",
+    "Patient & Family Education",
+    "Electronic Health Records",
+    "Epic",
+    "Cerner",
+    "Infection Control Protocols",
+    "Crisis Intervention",
+    "Code Blue Response",
+    "Quality & Safety Initiatives",
+    "Critical thinking",
+    "Patient advocacy",
+    "Evidence-based practice",
+    "Meditech",
+    "CRRT",
+    "Team collaboration",
+    "Communication",
+    "Stress management",
+    "Time management"
+  ],
+  "work_experience": [
+    {
+      "job_title": "Critical Care Registered Nurse - Medical/Surgical ICU",
+      "company_name": "Massachusetts General Hospital",
+      "location": "Boston, MA",
+      "employment_type": "full_time",
+      "start_date": "2019-08-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Provide comprehensive nursing care to critically ill patients with complex medical conditions in 24-bed MICU with 1:2 nurse-to-patient ratio (occasionally 1:3 during surge situations)",
+      "key_responsibilities": [
+        "Manage patients requiring mechanical ventilation, continuous renal replacement therapy (CRRT), hemodynamic monitoring via arterial lines and Swan-Ganz catheters, vasopressor support, and advanced cardiac life support",
+        "Serve as preceptor for 15+ new graduate nurses and nursing students, providing clinical education, skill development, and mentorship transitioning into critical care practice",
+        "Member of Unit-Based Council focused on improving patient outcomes and nurse satisfaction; led initiative reducing catheter-associated urinary tract infections (CAUTIs) by 45% through education and protocol implementation (2022-2023)",
+        "Participate in interdisciplinary rounds with physicians, respiratory therapists, pharmacists, social workers, and case managers to develop comprehensive patient care plans",
+        "Demonstrate proficiency with Epic EHR system for documentation, medication administration, and care coordination",
+        "Consistently receive excellent patient satisfaction scores (95th percentile) and peer recognition for clinical excellence",
+        "Float to other ICU units (SICU, CCU, Neuro ICU) as needed based on hospital census and staffing requirements"
+      ]
+    },
+    {
+      "job_title": "Emergency Department Registered Nurse",
+      "company_name": "Massachusetts General Hospital",
+      "location": "Boston, MA",
+      "employment_type": "full_time",
+      "start_date": "2016-03-01",
+      "end_date": "2019-07-01",
+      "is_current": false,
+      "description": "Delivered rapid assessment and emergency care in high-volume Level I Trauma Center ED averaging 350+ patient visits daily",
+      "key_responsibilities": [
+        "Performed triage assessment using ESI (Emergency Severity Index) 5-level triage system, prioritizing patients based on acuity and resource needs",
+        "Managed diverse patient population including trauma, cardiac emergencies, stroke, respiratory distress, sepsis, overdose, pediatric emergencies, and psychiatric crises",
+        "Initiated treatment protocols for time-sensitive conditions (STEMI, stroke, sepsis) ensuring door-to-intervention times met national benchmarks",
+        "Collaborated with trauma team during resuscitation of critically injured patients; assisted with emergency procedures including chest tube insertion, intubation, central line placement",
+        "Served as charge nurse 2-3 shifts per month, overseeing department operations, staff assignments, patient flow, and resource allocation",
+        "Received \"Daisy Award for Extraordinary Nurses\" (Q2 2018) for compassionate care and clinical excellence"
+      ]
+    },
+    {
+      "job_title": "Staff Nurse - Cardiac Care Unit",
+      "company_name": "Brigham and Women's Hospital",
+      "location": "Boston, MA",
+      "employment_type": "full_time",
+      "start_date": "2012-06-01",
+      "end_date": "2016-02-01",
+      "is_current": false,
+      "description": "Provided specialized cardiac nursing care for patients with acute myocardial infarction, heart failure, arrhythmias, and post-cardiac catheterization/intervention",
+      "key_responsibilities": [
+        "Monitored continuous cardiac telemetry, recognized life-threatening arrhythmias, and initiated appropriate interventions per ACLS protocols",
+        "Administered cardiac medications including thrombolytics, inotropes, antiarrhythmics, and anticoagulants with meticulous attention to dosing and patient response",
+        "Educated patients and families regarding heart disease, lifestyle modifications, medication compliance, and cardiac rehabilitation",
+        "Participated in unit quality improvement project that reduced heart failure readmission rates by 22% through enhanced discharge planning and patient education"
+      ]
+    },
+    {
+      "job_title": "Registered Nurse - Medical-Surgical Unit",
+      "company_name": "Newton-Wellesley Hospital",
+      "location": "Newton, MA",
+      "employment_type": "full_time",
+      "start_date": "2011-07-01",
+      "end_date": "2012-05-01",
+      "is_current": false,
+      "description": "Completed 12-month nurse residency program for new graduates with structured orientation, skills development, and progressive independence",
+      "key_responsibilities": [
+        "Cared for adult patients with variety of medical-surgical conditions in 32-bed unit with typical patient ratio of 1:5-6",
+        "Developed foundational nursing skills including medication administration, wound care, patient assessment, IV therapy, and documentation",
+        "Attended weekly residency seminars covering topics such as time management, critical thinking, professional development, and evidence-based practice"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Nursing (MSN)",
+      "institution": "Northeastern University",
+      "field_of_study": "Nursing Leadership & Healthcare Administration",
+      "education_level": "master",
+      "start_date": null,
+      "end_date": "2020-05-01",
+      "gpa": 3.9,
+      "honors": [
+        "Summa Cum Laude"
+      ]
+    },
+    {
+      "degree": "Bachelor of Science in Nursing (BSN)",
+      "institution": "Boston College",
+      "field_of_study": "Nursing",
+      "education_level": "bachelor",
+      "start_date": null,
+      "end_date": "2011-05-01",
+      "gpa": 3.6,
+      "honors": [
+        "Dean's List (all semesters)",
+        "Sigma Theta Tau International Honor Society of Nursing (inducted 2010)"
+      ]
+    }
+  ],
+  "projects": [],
+  "publications": [],
+  "certifications": [
+    {
+      "name": "Registered Nurse License (RN)",
+      "issuing_organization": "Massachusetts Board of Registration in Nursing",
+      "issue_date": "2012-06-01",
+      "expiry_date": "2026-06-01",
+      "credential_id": "RN-278945",
+      "credential_url": null
+    },
+    {
+      "name": "Registered Nurse License (RN) - Compact Multi-State License",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": "2027-01-01",
+      "credential_id": "RN-MS-445782",
+      "credential_url": null
+    },
+    {
+      "name": "Advanced Cardiovascular Life Support (ACLS)",
+      "issuing_organization": "American Heart Association",
+      "issue_date": "2013-01-01",
+      "expiry_date": "2025-11-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Pediatric Advanced Life Support (PALS)",
+      "issuing_organization": "American Heart Association",
+      "issue_date": null,
+      "expiry_date": "2026-03-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Basic Life Support (BLS) for Healthcare Providers",
+      "issuing_organization": "American Heart Association",
+      "issue_date": null,
+      "expiry_date": "2025-07-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Trauma Nursing Core Course (TNCC)",
+      "issuing_organization": "Emergency Nurses Association",
+      "issue_date": "2015-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Critical Care Registered Nurse (CCRN)",
+      "issuing_organization": "American Association of Critical-Care Nurses",
+      "issue_date": "2017-09-01",
+      "expiry_date": "2026-01-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Emergency Nurse (CEN)",
+      "issuing_organization": "Board of Certification for Emergency Nursing",
+      "issue_date": "2020-01-01",
+      "expiry_date": "2027-01-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Neonatal Resuscitation Program (NRP) Provider",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": "2025-08-01",
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "role": "Community Health Volunteer Nurse",
+      "organization": "Boston Health Care for the Homeless Program",
+      "location": "Boston, MA",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Provide health screenings and basic care at community health events twice monthly; Offer health education and resource navigation for vulnerable populations"
+    },
+    {
+      "role": "Medical Mission Trip Volunteer",
+      "organization": "Global Medical Mission Trip",
+      "location": "Guatemala",
+      "start_date": "2017-07-01",
+      "end_date": "2019-03-01",
+      "is_current": false,
+      "description": "Provided primary care and health education in underserved rural communities"
+    }
+  ],
+  "languages": [],
+  "achievements": null,
+  "awards": [
+    {
+      "title": "Excellence in Critical Care Nursing Award",
+      "issuer": "MGH Nursing Department",
+      "date": "2023-01-01",
+      "description": null
+    },
+    {
+      "title": "Daisy Award for Extraordinary Nurses",
+      "issuer": "Brigham Health",
+      "date": "2018-04-01",
+      "description": "Q2 2018"
+    },
+    {
+      "title": "Outstanding New Graduate Nurse",
+      "issuer": "Newton-Wellesley Hospital",
+      "date": "2012-01-01",
+      "description": null
+    },
+    {
+      "title": "Patient First recognition awards",
+      "issuer": null,
+      "date": null,
+      "description": "Multiple awards for exceptional patient care"
+    }
+  ],
+  "personal_interests": []
+}

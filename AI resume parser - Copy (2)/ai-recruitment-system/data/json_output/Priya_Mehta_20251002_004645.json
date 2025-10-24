@@ -1,0 +1,170 @@
+{
+  "full_name": "Priya Mehta",
+  "email": "priya.mehta.ai@gmail.com",
+  "phone_number": "+91 9823456789",
+  "location": "Bengaluru, India",
+  "professional_title": "AI/ML Engineer",
+  "professional_summary": "AI/ML Engineer with 4+ years of experience in developing deep learning models, deploying NLP solutions, and leading data-driven projects. Skilled at working across the ML lifecycle from data preprocessing to production deployment. Passionate about Generative AI and scalable ML systems.",
+  "linkedin_url": "https://linkedin.com/in/priyamehta",
+  "github_url": "https://github.com/priyamehta-ai",
+  "portfolio_url": "https://priya-mehta.dev/",
+  "skills": [
+    "Python",
+    "SQL",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "Keras",
+    "Hugging Face Transformers",
+    "Scikit-learn",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions",
+    "AWS",
+    "S3",
+    "SageMaker",
+    "GCP",
+    "Vertex AI",
+    "Azure",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Tableau",
+    "LLM Fine-tuning",
+    "RAG",
+    "Prompt Engineering",
+    "LangChain",
+    "OpenCV",
+    "CNNs",
+    "YOLOv8",
+    "Segmentation",
+    "Feature Extraction",
+    "Leadership",
+    "Communication",
+    "Problem-Solving",
+    "Critical Thinking"
+  ],
+  "work_experience": [
+    {
+      "job_title": "Senior AI Engineer",
+      "company_name": "Infosys AI Lab",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Designed and deployed a BERT-based question-answering system used by 50,000+ employees. Led a team of 3 engineers to optimize NLP pipelines, reducing inference latency by 40%. Integrated CI/CD workflows for ML models with Docker & Kubernetes on AWS.",
+      "key_responsibilities": [
+        "Designed and deployed a BERT-based question-answering system used by 50,000+ employees.",
+        "Led a team of 3 engineers to optimize NLP pipelines, reducing inference latency by 40%.",
+        "Integrated CI/CD workflows for ML models with Docker & Kubernetes on AWS."
+      ]
+    },
+    {
+      "job_title": "AI/ML Engineer",
+      "company_name": "TCS Research",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2020-06-01",
+      "end_date": "2021-12-01",
+      "is_current": false,
+      "description": "Built a computer vision system for defect detection in manufacturing using YOLOv5. Collaborated with cross-functional teams to deploy ML solutions at scale. Developed predictive analytics dashboards using Tableau.",
+      "key_responsibilities": [
+        "Built a computer vision system for defect detection in manufacturing using YOLOv5.",
+        "Collaborated with cross-functional teams to deploy ML solutions at scale.",
+        "Developed predictive analytics dashboards using Tableau."
+      ]
+    },
+    {
+      "job_title": "Data Science Intern",
+      "company_name": "Wipro Digital",
+      "location": null,
+      "employment_type": "internship",
+      "start_date": "2020-01-01",
+      "end_date": "2020-05-01",
+      "is_current": false,
+      "description": "Built customer churn prediction models using scikit-learn and XGBoost. Automated preprocessing pipelines with Python and SQL.",
+      "key_responsibilities": [
+        "Built customer churn prediction models using scikit-learn and XGBoost.",
+        "Automated preprocessing pipelines with Python and SQL."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Technology",
+      "institution": "IIT Madras",
+      "field_of_study": "Artificial Intelligence",
+      "education_level": "master",
+      "start_date": "2018-08-01",
+      "end_date": "2020-05-01",
+      "gpa": 9.1
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "Savitribai Phule Pune University",
+      "field_of_study": "Computer Engineering",
+      "education_level": "bachelor",
+      "start_date": "2014-08-01",
+      "end_date": "2018-05-01",
+      "gpa": 8.5
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Healthcare Chatbot",
+      "description": "Built a medical chatbot using Llama 2 + LangChain with RAG from clinical PDFs.",
+      "github_url": "https://github.com/priyamehta-ai/healthbot"
+    },
+    {
+      "name": "AI-Powered Resume Screener",
+      "description": "Developed a resume parser and ranking system using GPT + embeddings.",
+      "github_url": "https://github.com/priyamehta-ai/resume-screener"
+    },
+    {
+      "name": "Image Captioning with Attention Mechanism",
+      "description": "Implemented CNN + LSTM + Attention model to generate captions for COCO dataset.",
+      "github_url": null
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimizing NLP Pipelines with Transformers: A Case Study in Enterprise Search",
+      "description": null,
+      "url": null,
+      "publication_date": "2021-01-01"
+    },
+    {
+      "title": "Image Captioning using Attention Models",
+      "description": null,
+      "url": null,
+      "publication_date": "2019-01-01"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuing_organization": "Google",
+      "issue_date": "2021-01-01",
+      "credential_url": null
+    },
+    {
+      "name": "AWS Certified Machine Learning Specialty",
+      "issuing_organization": "Amazon",
+      "issue_date": "2022-01-01",
+      "credential_url": null
+    },
+    {
+      "name": "DeepLearning.AI Generative AI with LLMs",
+      "issuing_organization": "Coursera",
+      "issue_date": "2023-01-01",
+      "credential_url": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada"
+  ]
+}

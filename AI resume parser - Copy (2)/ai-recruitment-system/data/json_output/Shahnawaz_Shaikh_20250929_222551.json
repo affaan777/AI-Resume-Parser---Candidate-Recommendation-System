@@ -1,0 +1,322 @@
+{
+  "full_name": "Shahnawaz Shaikh",
+  "email": "sshahnawaz567@gmail.com",
+  "phone_number": "+91 9702611605",
+  "location": null,
+  "nationality": null,
+  "date_of_birth": null,
+  "professional_title": "AI / ML Engineer",
+  "professional_summary": null,
+  "career_level": null,
+  "industry_focus": null,
+  "job_type_preference": null,
+  "availability": null,
+  "willing_to_relocate": false,
+  "remote_work_preference": null,
+  "current_salary": null,
+  "expected_salary": null,
+  "salary_negotiable": true,
+  "benefits_important": null,
+  "linkedin_url": "https://www.linkedin.com/in/shahnawaz567/",
+  "github_url": "https://github.com/sshahnawaz567",
+  "portfolio_url": "https://shahnawazportfolio.framer.website/",
+  "personal_website": null,
+  "social_profiles": null,
+  "skills": [
+    {
+      "name": "Python",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "PyTorch",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "TensorFlow",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Keras",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "scikit-learn",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "LangChain",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "LangGraph",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "CNNs",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "GANs",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "VAEs",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "LLMs",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Fine-Tuning",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Generative AI",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Retrieval-Augmented Generation (RAG)",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Prompt Engineering",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "OpenCV",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Feature Extraction",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Segmentation",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Augmentation",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Tokenization",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Vector Databases",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "RAG Pipelines",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Data Gathering",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Pre-processing",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "EDA",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Feature Engineering",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Supervised/Unsupervised Learning",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "CI/CD",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Agile Methodologies",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Git",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Docker",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "AWS",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Tableau",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "MS Office",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "HTML",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "CSS",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Flask",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "FastAPI",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Pydantic",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Communication",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Leadership",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Teamwork",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Problem-Solving",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Innovative",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Proactive",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    },
+    {
+      "name": "Data-Driven Solutions",
+      "category": null,
+      "level": null,
+      "years_of_experience": null
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "AI Scientist – Generative Insights & Clustering Specialist",
+      "company_name": "4iamericas",
+      "company_industry": null,
+      "location": null,
+      "employment_type": null,
+      "start_date": 

@@ -1,0 +1,197 @@
+{
+  "full_name": "SARAH CHEN",
+  "email": "sarah.chen@emailprovider.com",
+  "phone_number": "+1 (555) 123-4567",
+  "location": "San Francisco Bay Area, CA 94102",
+  "professional_title": "Senior Software Engineer | Full-Stack Developer",
+  "professional_summary": "Highly accomplished Senior Software Engineer with 8+ years of experience building scalable web applications and distributed systems. Expertise in React, Node.js, Python, and cloud infrastructure (AWS/GCP). Led cross-functional teams of 5-12 engineers and delivered products serving 2M+ users. Passionate about clean code, system design, and mentoring junior developers.",
+  "linkedin_url": "https://linkedin.com/in/sarahchen",
+  "github_url": "https://github.com/sarahchen",
+  "portfolio_url": null,
+  "personal_website": "https://sarahchen.dev/",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "Go",
+    "SQL",
+    "GraphQL",
+    "HTML5",
+    "CSS3",
+    "React.js",
+    "Next.js",
+    "Vue.js",
+    "Redux",
+    "Tailwind CSS",
+    "Webpack",
+    "Jest",
+    "Node.js",
+    "Express",
+    "Django",
+    "FastAPI",
+    "Spring Boot",
+    "RESTful APIs",
+    "Microservices",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch",
+    "DynamoDB",
+    "AWS (EC2, S3, Lambda, RDS)",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "GitHub Actions",
+    "Terraform",
+    "Git",
+    "JIRA",
+    "Figma",
+    "Postman",
+    "DataDog",
+    "Sentry",
+    "System Design",
+    "Mentoring",
+    "Agile/Scrum"
+  ],
+  "work_experience": [
+    {
+      "job_title": "Senior Software Engineer",
+      "company_name": "TechVentures Inc.",
+      "location": "San Francisco, CA",
+      "employment_type": "full_time",
+      "start_date": "2021-03-01",
+      "end_date": null,
+      "is_current": true,
+      "description": null,
+      "key_responsibilities": [
+        "Architected and developed a real-time analytics dashboard using React, Node.js, and WebSockets, reducing data latency by 73% and serving 50K+ concurrent users",
+        "Led migration from monolithic architecture to microservices, improving system reliability from 97.2% to 99.8% uptime",
+        "Mentored team of 6 junior engineers through code reviews, pair programming, and bi-weekly technical workshops",
+        "Implemented CI/CD pipeline using Jenkins and Docker, reducing deployment time from 2 hours to 12 minutes",
+        "Collaborated with Product and Design teams using Agile/Scrum methodology (2-week sprints)"
+      ]
+    },
+    {
+      "job_title": "Software Engineer II",
+      "company_name": "TechVentures Inc.",
+      "location": "San Francisco, CA",
+      "employment_type": "full_time",
+      "start_date": "2019-01-01",
+      "end_date": "2021-02-01",
+      "is_current": false,
+      "description": null,
+      "key_responsibilities": [
+        "Developed RESTful APIs handling 1.5M requests/day with average response time under 200ms",
+        "Built automated testing framework increasing code coverage from 45% to 89%",
+        "Optimized database queries reducing load times by 60% across core application features"
+      ]
+    },
+    {
+      "job_title": "Full-Stack Developer",
+      "company_name": "DataStream Solutions",
+      "location": "Remote (San Jose, CA)",
+      "employment_type": "full_time",
+      "start_date": "2017-06-01",
+      "end_date": "2018-12-01",
+      "is_current": false,
+      "description": null,
+      "key_responsibilities": [
+        "Engineered customer-facing SaaS platform from ground up serving B2B clients in fintech sector",
+        "Integrated third-party APIs (Stripe, Plaid, SendGrid) for payment processing and communications",
+        "Implemented OAuth 2.0 authentication and role-based access control (RBAC) system",
+        "Reduced infrastructure costs by 40% through AWS resource optimization and auto-scaling implementation"
+      ]
+    },
+    {
+      "job_title": "Junior Software Developer",
+      "company_name": "Innovatech Startup",
+      "location": "Palo Alto, CA",
+      "employment_type": "full_time",
+      "start_date": "2016-08-01",
+      "end_date": "2017-05-01",
+      "is_current": false,
+      "description": null,
+      "key_responsibilities": [
+        "Developed responsive web interfaces using HTML5, CSS3, and vanilla JavaScript for e-commerce platform",
+        "Fixed 100+ bugs and implemented 25+ features based on user feedback and analytics",
+        "Participated in daily standups and sprint planning meetings"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "University of California, Berkeley",
+      "field_of_study": "Computer Science",
+      "education_level": "bachelor",
+      "start_date": null,
+      "end_date": "2016-05-01",
+      "gpa": 3.8,
+      "honors": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "DevCollab",
+      "description": "Open-source real-time collaboration tool for developers with 2.3K+ GitHub stars. Built with Next.js, Socket.io, and MongoDB.",
+      "github_url": "https://github.com/sarahchen/devcollab",
+      "project_url": null
+    },
+    {
+      "name": "SmartExpense Tracker",
+      "description": "Personal finance mobile app using React Native and Firebase. Features: AI-powered expense categorization, receipt scanning (OCR), budget alerts. 10K+ downloads on Google Play.",
+      "github_url": null,
+      "project_url": null
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimizing React Performance at Scale",
+      "description": "Speaker at ReactConf 2023",
+      "url": null,
+      "publication_date": "2023-01-01"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuing_organization": "Amazon Web Services",
+      "issue_date": "2023-01-01",
+      "expiry_date": "2026-01-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuing_organization": "Cloud Native Computing Foundation",
+      "issue_date": "2024-09-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "volunteer_experience": [],
+  "languages": [
+    "English (Native)",
+    "Mandarin Chinese (Professional working proficiency)",
+    "Spanish (Elementary proficiency)"
+  ],
+  "achievements": null,
+  "awards": [
+    {
+      "title": "Winner, TechCrunch Disrupt Hackathon 2022",
+      "issuer": "TechCrunch Disrupt Hackathon",
+      "date": "2022-01-01",
+      "description": "Built AI-powered code review tool"
+    },
+    {
+      "title": "Open Source Contributor",
+      "issuer": null,
+      "date": null,
+      "description": "500+ contributions to popular repos (webpack, react-router)"
+    }
+  ],
+  "personal_interests": []
+}

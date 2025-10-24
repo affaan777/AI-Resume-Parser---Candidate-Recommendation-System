@@ -1,0 +1,119 @@
+{
+  "test_date": "2025-10-15T12:37:39.400276",
+  "total_files": 5,
+  "successful": 5,
+  "failed": 0,
+  "success_rate": 100.0,
+  "timing": {
+    "total_duration": 84.62904667854309,
+    "avg_per_resume": 16.925809335708617
+  },
+  "results": [
+    {
+      "file": "Dr Jennifer.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_jrodriguez_rn_healthmail_com",
+        "candidate_name": "Jennifer Rodriguez",
+        "email": "jrodriguez.rn@healthmail.com",
+        "skills_count": 28,
+        "embedding_dims": 768,
+        "token_estimate": 737,
+        "timings": {
+          "text_extraction": 0.16427850723266602,
+          "parsing": 16.849327325820923,
+          "preprocessing": 0.0,
+          "embedding": 0.5999867916107178,
+          "storage": 1.8079628944396973,
+          "total": 21.680766344070435
+        }
+      }
+    },
+    {
+      "file": "MARCUS JOHNSON.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_m_johnson_webmail_com",
+        "candidate_name": "MARCUS JOHNSON",
+        "email": "m.johnson@webmail.com",
+        "skills_count": 44,
+        "embedding_dims": 768,
+        "token_estimate": 647,
+        "timings": {
+          "text_extraction": 0.10322999954223633,
+          "parsing": 15.027498245239258,
+          "preprocessing": 0.0,
+          "embedding": 0.4521794319152832,
+          "storage": 0.3725156784057617,
+          "total": 18.170251846313477
+        }
+      }
+    },
+    {
+      "file": "Priya-mehta.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_priya_mehta_ai_gmail_com",
+        "candidate_name": "Priya Mehta",
+        "email": "priya.mehta.ai@gmail.com",
+        "skills_count": 32,
+        "embedding_dims": 768,
+        "token_estimate": 319,
+        "timings": {
+          "text_extraction": 0.07376599311828613,
+          "parsing": 10.753207683563232,
+          "preprocessing": 0.0,
+          "embedding": 0.45950937271118164,
+          "storage": 0.5582518577575684,
+          "total": 14.062099695205688
+        }
+      }
+    },
+    {
+      "file": "SARAH CHEN.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_sarah_chen_emailprovider_com",
+        "candidate_name": "SARAH CHEN",
+        "email": "sarah.chen@emailprovider.com",
+        "skills_count": 45,
+        "embedding_dims": 768,
+        "token_estimate": 430,
+        "timings": {
+          "text_extraction": 0.21584463119506836,
+          "parsing": 11.020692825317383,
+          "preprocessing": 0.0,
+          "embedding": 0.4427011013031006,
+          "storage": 0.23478484153747559,
+          "total": 14.168802499771118
+        }
+      }
+    },
+    {
+      "file": "Shahnawaz_AI_ML_Resume_2025.pdf.pdf",
+      "status": "SUCCESS",
+      "details": {
+        "success": true,
+        "resume_id": "resume_sshahnawaz567_gmail_com",
+        "candidate_name": "Shahnawaz Shaikh",
+        "email": "sshahnawaz567@gmail.com",
+        "skills_count": 42,
+        "embedding_dims": 768,
+        "token_estimate": 371,
+        "timings": {
+          "text_extraction": 0.04202389717102051,
+          "parsing": 9.577328205108643,
+          "preprocessing": 0.0,
+          "embedding": 0.4488060474395752,
+          "storage": 0.256223201751709,
+          "total": 12.536428689956665
+        }
+      }
+    }
+  ],
+  "errors": []
+}

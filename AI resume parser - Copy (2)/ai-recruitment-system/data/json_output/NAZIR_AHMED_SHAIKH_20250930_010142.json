@@ -1,0 +1,249 @@
+{
+  "full_name": "NAZIR AHMED SHAIKH",
+  "email": "nazirahmed8097@gmail.com",
+  "phone_number": "9324616545",
+  "location": "Mumbai, 400072, India",
+  "professional_title": "Master Tailor & Uniform Specialist",
+  "professional_summary": "Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.",
+  "linkedin_url": null,
+  "github_url": null,
+  "portfolio_url": null,
+  "skills": [
+    {
+      "name": "Uniform Coordination"
+    },
+    {
+      "name": "Uniform Issuing"
+    },
+    {
+      "name": "Stock Management"
+    },
+    {
+      "name": "Alterations"
+    },
+    {
+      "name": "Fitting"
+    },
+    {
+      "name": "Repair"
+    },
+    {
+      "name": "Made-to-measure Clothing"
+    },
+    {
+      "name": "Cutting"
+    },
+    {
+      "name": "Tailoring"
+    },
+    {
+      "name": "Pattern Design"
+    },
+    {
+      "name": "Garment Design"
+    },
+    {
+      "name": "Sample Making"
+    },
+    {
+      "name": "First Aid"
+    },
+    {
+      "name": "Fire & Safety"
+    },
+    {
+      "name": "Health & Safety"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Tailor cum Uniform Attendant",
+      "company_name": "Gnosis Hospitality",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Coordinating with Uniform vendors, Issuing new uniform, Managing new uniform spare stocks, Handling the alterations for guests and staff.",
+      "key_responsibilities": [
+        "Coordinating with Uniform vendors",
+        "Issuing new uniforms",
+        "Managing new uniform spare stocks",
+        "Handling alterations for guests and staff"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Cutting Master",
+      "company_name": "Shivansh & Company",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2023-05-01",
+      "end_date": "2023-12-01",
+      "is_current": false,
+      "description": "Fit, alter, repair, and make made-to-measure clothing, according to customer and clothing manufacturers.",
+      "key_responsibilities": [
+        "Fitting clothing",
+        "Altering clothing",
+        "Repairing clothing",
+        "Making made-to-measure clothing"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Tailor & Uniform Attendant",
+      "company_name": "Alila Diwa",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2022-11-01",
+      "end_date": "2023-05-01",
+      "is_current": false,
+      "description": "Coordinating with Uniform vendors, Issuing new uniform, Managing new uniform spare stocks, Handling the alterations for guests and staff.",
+      "key_responsibilities": [
+        "Coordinating with Uniform vendors",
+        "Issuing new uniforms",
+        "Managing new uniform spare stocks",
+        "Handling alterations for guests and staff"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Tailor & Uniform In charge",
+      "company_name": "Park Hyatt Doha",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2019-12-01",
+      "end_date": "2022-05-01",
+      "is_current": false,
+      "description": "Coordinating with Uniform vendors, Issuing new uniform, Managing new uniform spare stocks, Handling the alterations for guests and staff.",
+      "key_responsibilities": [
+        "Coordinating with Uniform vendors",
+        "Issuing new uniforms",
+        "Managing new uniform spare stocks",
+        "Handling alterations for guests and staff"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Cutting Master and Sample Tailor",
+      "company_name": "JAI Ganesh Life Style Garment",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2016-01-01",
+      "end_date": "2018-12-01",
+      "is_current": false,
+      "description": "Develop, copy, or adapt design for garment and design pattern to fit measurements.",
+      "key_responsibilities": [
+        "Developing garment designs",
+        "Copying garment designs",
+        "Adapting garment designs",
+        "Designing patterns to fit measurements"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Cutter & Tailor",
+      "company_name": "Classic Fashion Apparel",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2014-06-01",
+      "end_date": "2015-08-01",
+      "is_current": false,
+      "description": "Fit, alter, repair, and make made-to-measure clothing, according to customer and clothing manufacturers.",
+      "key_responsibilities": [
+        "Fitting clothing",
+        "Altering clothing",
+        "Repairing clothing",
+        "Making made-to-measure clothing"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Cutter & Tailor",
+      "company_name": "The Sun Jordan Textile",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2013-07-01",
+      "end_date": "2014-06-01",
+      "is_current": false,
+      "description": "Fit, alter, repair, and make made-to-measure clothing, according to customer and clothing manufacturers.",
+      "key_responsibilities": [
+        "Fitting clothing",
+        "Altering clothing",
+        "Repairing clothing",
+        "Making made-to-measure clothing"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Tailor & Uniform Attendance",
+      "company_name": "Grand Hyatt Hotel",
+      "location": null,
+      "employment_type": "full_time",
+      "start_date": "2011-01-01",
+      "end_date": "2012-12-01",
+      "is_current": false,
+      "description": "Coordinating with Uniform vendors, Issuing new uniform, Managing new uniform spare stocks, Handling the alterations for guests and staff.",
+      "key_responsibilities": [
+        "Coordinating with Uniform vendors",
+        "Issuing new uniforms",
+        "Managing new uniform spare stocks",
+        "Handling alterations for guests and staff"
+      ],
+      "technologies_used": []
+    },
+    {
+      "job_title": "Owner Of Shop (Tailor)",
+      "company_name": "N.A garment India",
+      "location": null,
+      "employment_type": "freelance",
+      "start_date": "2007-03-01",
+      "end_date": "2010-06-01",
+      "is_current": false,
+      "description": "Managed and operated own tailoring shop, providing comprehensive tailoring services.",
+      "key_responsibilities": [
+        "Operating a tailoring shop",
+        "Providing tailoring services",
+        "Customer consultation and fitting"
+      ],
+      "technologies_used": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "SSC Passed",
+      "institution": "Maphkan Urdu High school, Mumbai",
+      "field_of_study": null,
+      "education_level": "high_school",
+      "start_date": null,
+      "end_date": "1997-01-01",
+      "gpa": null
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "First Aid",
+      "issuing_organization": null,
+      "issue_date": null,
+      "credential_url": null
+    },
+    {
+      "name": "Fire & Safety",
+      "issuing_organization": null,
+      "issue_date": null,
+      "credential_url": null
+    },
+    {
+      "name": "Health & Safety",
+      "issuing_organization": null,
+      "issue_date": null,
+      "credential_url": null
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Urdu"
+  ]
+}

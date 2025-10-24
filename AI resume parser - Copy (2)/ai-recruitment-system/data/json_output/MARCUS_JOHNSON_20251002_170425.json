@@ -1,0 +1,230 @@
+{
+  "full_name": "MARCUS JOHNSON",
+  "email": "m.johnson@webmail.com",
+  "phone_number": "555.987.6543",
+  "location": "Austin, Texas 78701, United States",
+  "professional_title": "Digital Marketing Manager & Brand Strategist",
+  "professional_summary": "Results-driven Digital Marketing Manager with 10 years of progressive experience  developing and executing data-driven marketing strategies that drive revenue growth.  Proven track record of increasing brand awareness by 250%, achieving 185% ROI on ad  spend, and managing cross-channel campaigns with budgets exceeding $2.5M annually.  Expert in SEO/SEM, content marketing, marketing automation, and team leadership.",
+  "linkedin_url": "https://linkedin.com/in/marcusjohnson",
+  "github_url": null,
+  "portfolio_url": "https://marcusjohnsonmarketing.com/",
+  "personal_website": null,
+  "skills": [
+    "Digital Strategy & Planning",
+    "Performance Marketing & Analytics",
+    "Content Marketing & SEO",
+    "Social Media Management (Meta, X, LinkedIn)",
+    "Email Marketing & Automation",
+    "Brand Development & Positioning",
+    "PPC/SEM (Google Ads, Bing)",
+    "Marketing Budget Management ($50K-$3M)",
+    "CRM Systems (Salesforce, HubSpot)",
+    "A/B Testing & Conversion Optimization",
+    "Team Leadership & Development",
+    "Stakeholder Communication",
+    "Marketing Technology Stack",
+    "Customer Journey Mapping",
+    "Google Analytics 4 (GA4)",
+    "Google Tag Manager",
+    "SEMrush",
+    "Ahrefs",
+    "Hootsuite",
+    "Sprout Social",
+    "Mailchimp",
+    "Marketo",
+    "HubSpot",
+    "Salesforce",
+    "Tableau",
+    "Canva",
+    "Adobe Creative Suite (Photoshop, Illustrator)",
+    "WordPress",
+    "Shopify",
+    "Zapier"
+  ],
+  "work_experience": [
+    {
+      "job_title": "Senior Digital Marketing Manager",
+      "company_name": "BRIGHTWAVE MARKETING AGENCY",
+      "location": "Austin, TX",
+      "employment_type": null,
+      "start_date": "2022-04-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "→ Spearhead integrated digital marketing strategies for 15+ B2B/B2C clients across  SaaS, e-commerce, and healthcare industries with combined annual revenue of $45M+\n\n→ Increased client organic traffic by average of 340% through comprehensive SEO  strategy including technical audits, content optimization, and link building\n\n→ Manage team of 8 marketing specialists (content writers, PPC specialists, social  media managers, graphic designers) with focus on professional development\n\n→ Achieved average ROAS (Return on Ad Spend) of 5.2:1 across Google Ads and Meta  campaigns, managing monthly ad spend of $185K across all client accounts\n\n→ Developed and implemented marketing automation workflows resulting in 67% increase  in lead nurturing efficiency and 43% improvement in lead-to-customer conversion\n\n→ Present monthly performance reports and strategic recommendations to C-suite  executives and key stakeholders\n\nKey Achievement: Launched rebranding campaign for major client that resulted in  215% increase in brand awareness and $3.2M in new business within 6 months",
+      "key_responsibilities": []
+    },
+    {
+      "job_title": "Digital Marketing Manager",
+      "company_name": "ELEVATION TECHNOLOGIES INC",
+      "location": "Remote (Headquarters: Seattle, WA)",
+      "employment_type": null,
+      "start_date": "2020-02-01",
+      "end_date": "2022-03-01",
+      "is_current": false,
+      "description": "→ Led digital marketing initiatives for B2B SaaS company serving enterprise clients\n\n→ Grew marketing qualified leads (MQLs) by 290% YoY through multi-channel demand  generation campaigns including content marketing, webinars, and paid advertising\n\n→ Reduced customer acquisition cost (CAC) by 38% while simultaneously increasing  monthly recurring revenue (MRR) by $425K\n\n→ Built and managed company's first marketing automation system using HubSpot,  creating 25+ automated workflows and email sequences\n\n→ Established company blog that grew to 85K monthly visitors, ranking #1 for 50+  targeted keywords in competitive SaaS space\n\n→ Collaborated with Sales team to develop account-based marketing (ABM) strategy  targeting Fortune 500 companies, resulting in 12 new enterprise deals worth $2.8M\n\n→ Managed external agencies and freelancers for specialized projects (video  production, graphic design, content writing)",
+      "key_responsibilities": []
+    },
+    {
+      "job_title": "Marketing Manager",
+      "company_name": "NexGen E-Commerce Solutions",
+      "location": "Denver, CO",
+      "employment_type": null,
+      "start_date": "2018-01-01",
+      "end_date": "2020-01-01",
+      "is_current": false,
+      "description": "• Directed all marketing activities for fast-growing e-commerce startup with 200+ SKUs\n• Implemented data-driven email marketing strategy that generated $1.2M in revenue  with average email open rate of 28% and CTR of 4.5% (150% above industry average)\n• Launched successful influencer marketing program partnering with 40+ micro-influencers,  reaching combined audience of 2.5M and driving $650K in attributed sales\n• Increased social media following from 15K to 180K across Instagram, Facebook, and  TikTok through consistent content strategy and community engagement\n• Managed $450K annual marketing budget across paid search, social, display, and affiliate channels",
+      "key_responsibilities": []
+    },
+    {
+      "job_title": "Digital Marketing Specialist",
+      "company_name": "Digital Spark Marketing Co.",
+      "location": "San Diego, California",
+      "employment_type": null,
+      "start_date": "2015-05-01",
+      "end_date": "2017-12-01",
+      "is_current": false,
+      "description": "• Executed PPC campaigns across Google Ads, Bing Ads, and social platforms for 20+ clients\n• Managed monthly ad budgets ranging from $10K to $85K with average CTR of 3.8%\n• Conducted keyword research, ad copywriting, landing page optimization, and bid management\n• Created monthly performance reports and presented insights to clients\n• Achieved average client retention rate of 92%",
+      "key_responsibilities": []
+    },
+    {
+      "job_title": "Marketing Coordinator",
+      "company_name": "Digital Spark Marketing Co.",
+      "location": "San Diego, California",
+      "employment_type": null,
+      "start_date": "2014-06-01",
+      "end_date": "2015-04-01",
+      "is_current": false,
+      "description": "• Supported senior marketing team with campaign execution and administrative tasks\n• Managed social media accounts and created content calendar\n• Coordinated marketing events and trade show participation",
+      "key_responsibilities": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration (BBA)",
+      "institution": "UNIVERSITY OF TEXAS AT AUSTIN",
+      "field_of_study": "Marketing",
+      "education_level": "bachelor",
+      "start_date": null,
+      "end_date": "2014-05-01",
+      "gpa": 3.7,
+      "honors": [
+        "Dean's List: 2012",
+        "Dean's List: 2013",
+        "Dean's List: 2014"
+      ]
+    }
+  ],
+  "projects": [],
+  "publications": [
+    {
+      "title": "The Future of AI in Marketing",
+      "description": "MarketingProfs B2B Forum, Speaker",
+      "url": null,
+      "publication_date": "2024-10-01"
+    },
+    {
+      "title": "Digital Marketing Strategy",
+      "description": "UT Austin, Guest Lecturer",
+      "url": null,
+      "publication_date": null
+    },
+    {
+      "title": "The Digital Marketing Playbook",
+      "description": "Industry Publication, Contributing Author",
+      "url": null,
+      "publication_date": "2022-01-01"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Ads Certification (Search, Display, Video)",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Google Analytics Individual Qualification (GAIQ)",
+      "issuing_organization": null,
+      "issue_date": null,
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "HubSpot Inbound Marketing Certification",
+      "issuing_organization": null,
+      "issue_date": "2023-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Facebook Blueprint Certification",
+      "issuing_organization": null,
+      "issue_date": "2024-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Content Marketing Certification",
+      "issuing_organization": "HubSpot Academy",
+      "issue_date": "2022-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "SEO Specialization",
+      "issuing_organization": "University of California, Davis (Coursera)",
+      "issue_date": "2021-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Scrum Product Owner (CSPO)",
+      "issuing_organization": "Scrum Alliance",
+      "issue_date": "2023-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "role": "Marketing Advisor",
+      "organization": "Austin Small Business Development Center",
+      "location": null,
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Pro bono marketing consulting for local startups and small businesses"
+    }
+  ],
+  "languages": [],
+  "achievements": null,
+  "awards": [
+    {
+      "title": "\"40 Under 40\" Rising Marketing Leaders",
+      "issuer": "Austin Business Journal",
+      "date": "2024-01-01",
+      "description": null
+    },
+    {
+      "title": "Best Digital Marketing Campaign",
+      "issuer": "Austin Marketing Awards",
+      "date": "2023-01-01",
+      "description": null
+    },
+    {
+      "title": "Employee of the Year",
+      "issuer": "Elevation Technologies",
+      "date": "2021-01-01",
+      "description": null
+    }
+  ],
+  "personal_interests": []
+}

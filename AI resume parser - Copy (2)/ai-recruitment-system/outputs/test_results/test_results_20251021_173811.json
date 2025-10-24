@@ -1,0 +1,60 @@
+{
+  "test_date": "2025-10-21T17:38:11.754508",
+  "total_files": 5,
+  "successful": 0,
+  "failed": 5,
+  "success_rate": 0.0,
+  "timing": {
+    "total_duration": 113.08564710617065,
+    "avg_per_resume": 22.617129421234132
+  },
+  "results": [
+    {
+      "file": "Abhilash Cheerla 2025.pdf",
+      "status": "FAILED",
+      "error": "Failed to store chunk 0"
+    },
+    {
+      "file": "Alex_sen_software.pdf",
+      "status": "FAILED",
+      "error": "Failed to retrieve from Pinecone"
+    },
+    {
+      "file": "Ashish Boya 2025.pdf",
+      "status": "FAILED",
+      "error": "Failed to store chunk 0"
+    },
+    {
+      "file": "Avinash Reddy 2025.pdf",
+      "status": "FAILED",
+      "error": "Failed to store chunk 0"
+    },
+    {
+      "file": "Azeezat_Yekinni 2025.pdf",
+      "status": "FAILED",
+      "error": "Failed to store chunk 0"
+    }
+  ],
+  "errors": [
+    {
+      "file": "Abhilash Cheerla 2025.pdf",
+      "error": "Failed to store chunk 0"
+    },
+    {
+      "file": "Alex_sen_software.pdf",
+      "error": "Failed to retrieve from Pinecone"
+    },
+    {
+      "file": "Ashish Boya 2025.pdf",
+      "error": "Failed to store chunk 0"
+    },
+    {
+      "file": "Avinash Reddy 2025.pdf",
+      "error": "Failed to store chunk 0"
+    },
+    {
+      "file": "Azeezat_Yekinni 2025.pdf",
+      "error": "Failed to store chunk 0"
+    }
+  ]
+}

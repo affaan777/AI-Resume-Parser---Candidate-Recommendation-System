@@ -1,0 +1,60 @@
+{
+  "test_date": "2025-10-21T16:44:52.814461",
+  "total_files": 5,
+  "successful": 0,
+  "failed": 5,
+  "success_rate": 0.0,
+  "timing": {
+    "total_duration": 103.7523205280304,
+    "avg_per_resume": 20.750464105606078
+  },
+  "results": [
+    {
+      "file": "Abhilash Cheerla 2025.pdf",
+      "status": "FAILED",
+      "error": "Error parsing resume: Unterminated string starting at: line 158 column 22 (char 17917)"
+    },
+    {
+      "file": "Alex_sen_software.pdf",
+      "status": "FAILED",
+      "error": "Error parsing resume: 2 validation errors for ResumeData\nfull_name\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\nemail\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type"
+    },
+    {
+      "file": "Ashish Boya 2025.pdf",
+      "status": "FAILED",
+      "error": "Error parsing resume: 2 validation errors for ResumeData\nemail\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\neducation.0.institution\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type"
+    },
+    {
+      "file": "Avinash Reddy 2025.pdf",
+      "status": "FAILED",
+      "error": "Error parsing resume: Unterminated string starting at: line 98 column 22 (char 14205)"
+    },
+    {
+      "file": "Azeezat_Yekinni 2025.pdf",
+      "status": "FAILED",
+      "error": "Error parsing resume: 1 validation error for ResumeData\nemail\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type"
+    }
+  ],
+  "errors": [
+    {
+      "file": "Abhilash Cheerla 2025.pdf",
+      "error": "Error parsing resume: Unterminated string starting at: line 158 column 22 (char 17917)"
+    },
+    {
+      "file": "Alex_sen_software.pdf",
+      "error": "Error parsing resume: 2 validation errors for ResumeData\nfull_name\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\nemail\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type"
+    },
+    {
+      "file": "Ashish Boya 2025.pdf",
+      "error": "Error parsing resume: 2 validation errors for ResumeData\nemail\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type\neducation.0.institution\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type"
+    },
+    {
+      "file": "Avinash Reddy 2025.pdf",
+      "error": "Error parsing resume: Unterminated string starting at: line 98 column 22 (char 14205)"
+    },
+    {
+      "file": "Azeezat_Yekinni 2025.pdf",
+      "error": "Error parsing resume: 1 validation error for ResumeData\nemail\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_type"
+    }
+  ]
+}
